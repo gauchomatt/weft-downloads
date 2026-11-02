@@ -4,30 +4,29 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.0.58</title>
-            <pubDate>Thu, 29 Oct 2026 17:16:48 -0600</pubDate>
-            <sparkle:version>67</sparkle:version>
-            <sparkle:shortVersionString>1.0.58</sparkle:shortVersionString>
+            <title>1.0.59</title>
+            <pubDate>Mon, 02 Nov 2026 10:46:40 -0700</pubDate>
+            <sparkle:version>68</sparkle:version>
+            <sparkle:shortVersionString>1.0.59</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Weft 1.0.58
+            <description sparkle:format="markdown"><![CDATA[# Weft 1.0.59
 
-- Load workspace connection targets only while the connection picker is open, avoiding repeated repository-wide discovery in the overview.
-- Coalesce overlapping connection refreshes and reuse validated routing settings and registries until their files change.
-- Avoid publishing unchanged interface state and redrawing the menu-bar icon on every session update.
-- Skip ordinary source files early when scanning for dependency and configuration restart triggers, with a 15-second fallback interval for configuration and branch checks.
-- Reduce background check and repository polling, with longer intervals in the background and Low Power Mode.
-- Inspect Git status without refreshing the index or waking metadata watchers.
-- Preserve registered workspace routing, fallback addresses and shared sign-in relay compatibility.
-- Wait for dependency build readiness before starting services, preventing overlapping builds during workspace restoration.
-- Provide a local Release reservation action for stale agent holds.
+- Try the early local Grokbot workflow in **Settings → Preview → Beta features**. It is off by default and uses your existing projects and agent connections.
+- With Beta enabled, agents can request prepared local workspaces and ready previews through Weft's bundled tools, with parallel worktrees and private task reservations managed in the background.
+- Beta setup can prepare workspaces for active agents automatically. With Beta off, existing development-role and roster defaults remain in place.
+- The Dock uses a dashed woven icon while Beta is enabled. Turning it off blocks new background preparation and preview requests while keeping existing task status, cleanup, code and running previews available.
+- Existing ownership checks, recipe approvals, local-tool permissions and selected preview origins remain enforced. Turning Beta off does not undo edits to your project files.
+- Retains the performance, startup readiness and reservation-recovery fixes from 1.0.58.
+
+The preview currently supports local CLI/MCP requests. Remote pairing, automatic completion delivery, screenshots, verification of uncommitted edits and cloud fallback remain planned.
 
 Requires macOS 26 or later and Apple silicon. Versions through 1.0.52 require one manual installation to enable in-app updates.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.58/Weft-1.0.58-arm64.dmg" length="13497816" type="application/octet-stream" sparkle:edSignature="5zZo/ZkKHsqmA4AAvFf/DuEK3dLK1nfrkj/JOktoFThBIYmuYWXPbM093wHM24aYY4aRp5MLjX5Jmh7mw4BgCQ=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.59/Weft-1.0.59-arm64.dmg" length="16214865" type="application/octet-stream" sparkle:edSignature="dFEOeuuf7M50Nt7wAc490oxT3woCBGoPzaZU94UFNokLwQ6xsv/O09owt49akgR1OEdEOfkxMH0+Jo70UAEEDQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: pCg1PsW4G75GXQaB+UH02o/I19/FruWxkQkldtpjqBz2W2WYTBrPWvQZXDOalwr/EjMDls7IzV7Kq7Y1QEJEAQ==
-length: 2370
+edSignature: LlO//1GNpkkkpYHyJ007hGCnkzPjt78rSLOxqmq3qCSSBpCVS2OoFhMCDGUczS+mtSC1/S9RG19Is5mTcZVdDw==
+length: 2520
 -->
