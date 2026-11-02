@@ -4,29 +4,30 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.0.59</title>
-            <pubDate>Mon, 02 Nov 2026 10:46:40 -0700</pubDate>
-            <sparkle:version>68</sparkle:version>
-            <sparkle:shortVersionString>1.0.59</sparkle:shortVersionString>
+            <title>1.0.60</title>
+            <pubDate>Mon, 02 Nov 2026 14:16:27 -0700</pubDate>
+            <sparkle:version>69</sparkle:version>
+            <sparkle:shortVersionString>1.0.60</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Weft 1.0.59
+            <description sparkle:format="markdown"><![CDATA[# Weft 1.0.60
 
-- Try the early local Grokbot workflow in **Settings → Preview → Beta features**. It is off by default and uses your existing projects and agent connections.
-- With Beta enabled, agents can request prepared local workspaces and ready previews through Weft's bundled tools, with parallel worktrees and private task reservations managed in the background.
-- Beta setup can prepare workspaces for active agents automatically. With Beta off, existing development-role and roster defaults remain in place.
-- The Dock uses a dashed woven icon while Beta is enabled. Turning it off blocks new background preparation and preview requests while keeping existing task status, cleanup, code and running previews available.
-- Existing ownership checks, recipe approvals, local-tool permissions and selected preview origins remain enforced. Turning Beta off does not undo edits to your project files.
-- Retains the performance, startup readiness and reservation-recovery fixes from 1.0.58.
+- Compare checks against the pull request's real base, including stacked branches, so changes inherited from a parent PR do not trigger false broader-verification failures.
+- Refresh and revalidate the comparison base before accepting a result. Missing or ambiguous PR bases are reported as check-runner issues rather than silently falling back to main.
+- Run approved broader verification profiles automatically when needed, or explicitly with `weft check run --scope project`. Broader commands still require project approval.
+- Report runner and setup blockers separately from source-code failures. These blockers no longer request code-repair handoffs.
+- Reuse an existing repair handoff and acknowledgement for identical failures across commits. A passing revision ends the group so a later regression can notify again.
+- Distinguish a repository operation in progress from another task's workspace claim. Accept all documented recovery-flag forms while preserving human approval for claim recovery.
+- Keep related tests in their owning packages, including configured package working directories, with expanded regression coverage.
 
-The preview currently supports local CLI/MCP requests. Remote pairing, automatic completion delivery, screenshots, verification of uncommitted edits and cloud fallback remain planned.
+Existing Beta features remain off by default in **Settings → Preview → Beta features**. This update preserves existing projects, worktrees, approvals and connections.
 
 Requires macOS 26 or later and Apple silicon. Versions through 1.0.52 require one manual installation to enable in-app updates.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.59/Weft-1.0.59-arm64.dmg" length="16214865" type="application/octet-stream" sparkle:edSignature="dFEOeuuf7M50Nt7wAc490oxT3woCBGoPzaZU94UFNokLwQ6xsv/O09owt49akgR1OEdEOfkxMH0+Jo70UAEEDQ=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.60/Weft-1.0.60-arm64.dmg" length="16294169" type="application/octet-stream" sparkle:edSignature="BlGkQL0h/1KV60Xm9w0MgKId2p9s1oQL8Jr1hfQH3yuLg0Kav3jcptA2w7tUdUdlqc851tNH+zQO8a/v9VaTDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: LlO//1GNpkkkpYHyJ007hGCnkzPjt78rSLOxqmq3qCSSBpCVS2OoFhMCDGUczS+mtSC1/S9RG19Is5mTcZVdDw==
-length: 2520
+edSignature: UTXb90BfZn64Kis21+otVnbRztXATQOMfft7gtfP9p0b5OPDmt4A90A/qMzZS/PuKqnnUonv12hKSatlshEzBQ==
+length: 2662
 -->
