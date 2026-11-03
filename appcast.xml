@@ -4,23 +4,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.0.62</title>
-            <pubDate>Tue, 03 Nov 2026 09:16:34 -0700</pubDate>
-            <sparkle:version>71</sparkle:version>
-            <sparkle:shortVersionString>1.0.62</sparkle:shortVersionString>
+            <title>1.0.63</title>
+            <pubDate>Tue, 03 Nov 2026 09:48:59 -0700</pubDate>
+            <sparkle:version>72</sparkle:version>
+            <sparkle:shortVersionString>1.0.63</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Weft 1.0.62
+            <description sparkle:format="markdown"><![CDATA[# Weft 1.0.63
 
-- Find project tools installed through the standard mise shim directory, including Bun, when Weft starts from Finder.
-- Close an earlier PR-base lookup report after a later check confirms the comparison base. Other check blockers remain visible.
+- Drag projects and worktrees to reorder the sidebar. An insertion line shows where the item will land, and rows slide apart to make room. Press Escape to cancel.
+- Choose an agent to prepare a workspace. Weft removes unused port mappings when the existing approval still applies, and shows a compact Continue prompt when the setup needs review.
+- Keep Workspace Setup responsive by discovering checks in the background. Advanced settings scroll within the sheet, and the raw JSON editor has been removed.
 
 Requires macOS 26 or later and Apple silicon.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.62/Weft-1.0.62-arm64.dmg" length="18010484" type="application/octet-stream" sparkle:edSignature="AAgnqLymTFZuutUi64ZPFljYfqBRb3su5m9Da3wroUJCVl3XQ8Ffwgk86r0tdfj6AYPcfhiNL5YNhh4RL2gTBg=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.63/Weft-1.0.63-arm64.dmg" length="18039223" type="application/octet-stream" sparkle:edSignature="Cta16MkXNLttJnzgRmxew/RgZaiUS+CH0ZPI9v6AA/ixN+Hh5ZQEkuWn9KKlLVh43C9ciaWf/67ReYtgxwnMDg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: EStQO3J83fgGDKQXtgaev1j3+MK/dxhXqScgS7t4bAvegDrJJoQP76Fg3yY3JW+7J9d9IXwonQA3oPAo2i90AQ==
-length: 1518
+edSignature: g9jC0v1qiygHiaEevtwoOqEa6Gm+ZdjS7u4zaCc4aKUjnY4Uf1BsbElSiVQF9glEwMj7lT9aCT++QDYcC9TTBQ==
+length: 1778
 -->
