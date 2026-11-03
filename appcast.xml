@@ -4,29 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.0.61</title>
-            <pubDate>Mon, 02 Nov 2026 14:48:16 -0700</pubDate>
-            <sparkle:version>70</sparkle:version>
-            <sparkle:shortVersionString>1.0.61</sparkle:shortVersionString>
+            <title>1.0.62</title>
+            <pubDate>Tue, 03 Nov 2026 09:16:34 -0700</pubDate>
+            <sparkle:version>71</sparkle:version>
+            <sparkle:shortVersionString>1.0.62</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Weft 1.0.61
+            <description sparkle:format="markdown"><![CDATA[# Weft 1.0.62
 
-- Save private claim-token files outside project checkouts so agents can resume their workspace reservation after an app or Mac restart. Successful claims return the file path; release and reviewed recovery retire it.
-- Refresh claim status after runtime inspection so a workspace claimed during inspection is shown as held.
-- Distinguish repository and connection operations in progress from another task’s workspace claim across setup, agent linking and connection controls.
-- Retain the stacked pull-request base selection and changed-file, package-related test scoping introduced in 1.0.60.
+- Find project tools installed through the standard mise shim directory, including Bun, when Weft starts from Finder.
+- Close an earlier PR-base lookup report after a later check confirms the comparison base. Other check blockers remain visible.
 
-Existing claims whose tokens were already lost still require reviewed recovery. Claims do not expire automatically.
-
-Existing Beta features remain off by default in **Settings → Preview → Beta features**. This update preserves existing projects, worktrees, approvals and connections.
-
-Requires macOS 26 or later and Apple silicon. Versions through 1.0.52 require one manual installation to enable in-app updates.
+Requires macOS 26 or later and Apple silicon.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.61/Weft-1.0.61-arm64.dmg" length="18008156" type="application/octet-stream" sparkle:edSignature="OoIf1MPHQzDgjwmrcti0qA2UlSzNnGVUcBPKl7uTu++8GiwaqpS+LqNtVcC4bdDTNlPCFVdOY1KPh56bM3+6BQ=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.62/Weft-1.0.62-arm64.dmg" length="18010484" type="application/octet-stream" sparkle:edSignature="AAgnqLymTFZuutUi64ZPFljYfqBRb3su5m9Da3wroUJCVl3XQ8Ffwgk86r0tdfj6AYPcfhiNL5YNhh4RL2gTBg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: WVpVrFJJzdjJqFwt4jLomwfTu8M8rmXwT+lYPI7XB1bNqcprYf0Ls+Hhl622wvypv7RyAZ0YhUGZa2p7BzdmDQ==
-length: 2240
+edSignature: EStQO3J83fgGDKQXtgaev1j3+MK/dxhXqScgS7t4bAvegDrJJoQP76Fg3yY3JW+7J9d9IXwonQA3oPAo2i90AQ==
+length: 1518
 -->
