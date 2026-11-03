@@ -4,21 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.0.64</title>
-            <pubDate>Tue, 03 Nov 2026 10:40:36 -0700</pubDate>
-            <sparkle:version>73</sparkle:version>
-            <sparkle:shortVersionString>1.0.64</sparkle:shortVersionString>
+            <title>1.0.65</title>
+            <pubDate>Tue, 03 Nov 2026 11:24:22 -0700</pubDate>
+            <sparkle:version>74</sparkle:version>
+            <sparkle:shortVersionString>1.0.65</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description sparkle:format="markdown"><![CDATA[## Failed-check repairs
 
-- Choose a bot from a searchable list with avatars when the workspace needs a connection.
-- Weft preselects a matching workspace bot when it finds a unique match. Workspaces with a linked bot can still send diagnostics directly.
+- Fix it lists only bots rostered in Weft and checks roster membership again before sending diagnostics.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.64/Weft-1.0.64-arm64.dmg" length="16372533" type="application/octet-stream" sparkle:edSignature="oC/lFXFelgNPgRucIZq+HJYwkz7SQf88iiK9dLIZR4kNS+vU8E8zVBh5JUC1EdnJ4ZRaEgmYCjYtUNhv4qrUCA=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.65/Weft-1.0.65-arm64.dmg" length="16369176" type="application/octet-stream" sparkle:edSignature="u43FUqxSkUSTMutgeNxhP6jj5Xh7Rj2X3ov10MMh5qFEs9HiH7nbkDKAy4jBUBJ9FdtvJHaX+HbF8g8ptmGkAw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: j4jG1EUp/gNXIIvs4qjhsFH+um1JuMgDO077PLmgWJRpamqqigqqoabBiAa5gLLaGpIKRAvGIQWbCEx9dGUHAw==
-length: 1464
+edSignature: LaBaJZV0ShuiCy2eSA9Fw1MqFZuDVzCfMVi1PfWM+LmGQ101vwTOJijW9woZXk44CYpR7T6BfDR41VHivXXJCg==
+length: 1340
 -->
