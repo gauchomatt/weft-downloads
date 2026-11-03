@@ -4,20 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.0.65</title>
-            <pubDate>Tue, 03 Nov 2026 11:24:22 -0700</pubDate>
-            <sparkle:version>74</sparkle:version>
-            <sparkle:shortVersionString>1.0.65</sparkle:shortVersionString>
+            <title>1.0.66</title>
+            <pubDate>Tue, 03 Nov 2026 11:37:51 -0700</pubDate>
+            <sparkle:version>75</sparkle:version>
+            <sparkle:shortVersionString>1.0.66</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[## Failed-check repairs
+            <description sparkle:format="markdown"><![CDATA[## Service restarts
 
-- Fix it lists only bots rostered in Weft and checks roster membership again before sending diagnostics.
+- Weft briefly waits for the previous service listener to close before checking for port conflicts during a restart.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.65/Weft-1.0.65-arm64.dmg" length="16369176" type="application/octet-stream" sparkle:edSignature="u43FUqxSkUSTMutgeNxhP6jj5Xh7Rj2X3ov10MMh5qFEs9HiH7nbkDKAy4jBUBJ9FdtvJHaX+HbF8g8ptmGkAw=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.66/Weft-1.0.66-arm64.dmg" length="16385332" type="application/octet-stream" sparkle:edSignature="Az51ibolKS0/nPoG6QgLeEYyxzCL41lEzzl0ZXtlJ4az1xdU/0k/7sI78Dt5F1WxlxVrhdFebuhMaL4E1XjXAg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: LaBaJZV0ShuiCy2eSA9Fw1MqFZuDVzCfMVi1PfWM+LmGQ101vwTOJijW9woZXk44CYpR7T6BfDR41VHivXXJCg==
-length: 1340
+edSignature: +1fDtnUcyBo0DbDfZvLlG4FpoNeoef3x0Pq8O3fINuQxZ7ieP7qAMusc7F7jB0XpT0VgRv18llwOi8j9sjo2Bg==
+length: 1348
 -->
