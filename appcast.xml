@@ -4,20 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.0.70</title>
-            <pubDate>Fri, 06 Nov 2026 12:36:53 -0700</pubDate>
-            <sparkle:version>79</sparkle:version>
-            <sparkle:shortVersionString>1.0.70</sparkle:shortVersionString>
+            <title>1.0.71</title>
+            <pubDate>Fri, 06 Nov 2026 12:52:25 -0700</pubDate>
+            <sparkle:version>80</sparkle:version>
+            <sparkle:shortVersionString>1.0.71</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[## Worktree previews
+            <description sparkle:format="markdown"><![CDATA[## Claude Code worktrees
 
-- When Weft starts a service with hostname routing, it suppresses Vite’s automatic browser launch by default. Open Preview uses the selected worktree’s labeled address.
+- When a linked Claude Code session has no saved conversation, Weft starts the session interactively so Claude Code can show its sign-in and workspace trust prompts. Saved conversations resume as before.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.70/Weft-1.0.70-arm64.dmg" length="18328868" type="application/octet-stream" sparkle:edSignature="CeT/MbdKiAWaHa7Zow1EUKNkuNQ/1kfUWX6i78M9phOzssM2aRd8IARqao0rMv2z/kv0rodGz5CmSHsvLSU7CQ=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.71/Weft-1.0.71-arm64.dmg" length="18330103" type="application/octet-stream" sparkle:edSignature="LMOGv3HVOrLTKO6EgeTy/sS1d2TkDiMtlNyBs6efPAEcoqlmqLYhi7hHvG0GH0+xk9Pv/hI1aMbrvVKxx4jqDw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: qKnXQdeJNnb+gIeU9OMtM7qAI+4YKZ+tA9bJvc/o/uKagM1PPUvjFcluqW7oXK9bsYN5RNTfKE5k6xMjLLWlCw==
-length: 1405
+edSignature: ObAfMQObVjKqTlX7Onr9z38hqjMlaYTgvUfyfuZsOnAkg1DGpax2BnZaFYj6Po3mqUe3fg3YvWZxL+su30UcAA==
+length: 1440
 -->
