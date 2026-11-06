@@ -4,20 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.0.75</title>
-            <pubDate>Fri, 06 Nov 2026 14:36:01 -0700</pubDate>
-            <sparkle:version>84</sparkle:version>
-            <sparkle:shortVersionString>1.0.75</sparkle:shortVersionString>
+            <title>1.0.76</title>
+            <pubDate>Fri, 06 Nov 2026 15:19:01 -0700</pubDate>
+            <sparkle:version>85</sparkle:version>
+            <sparkle:shortVersionString>1.0.76</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[## Worktree previews
+            <description sparkle:format="markdown"><![CDATA[# Weft 1.0.76
 
-- If a named worktree preview returns HTTP 404, **Open preview** opens the same page on the worktree’s direct port.
+- See Claude and Cursor icons beside worktrees with linked conversations.
+- See when a worktree is being deleted, until removal finishes.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.75/Weft-1.0.75-arm64.dmg" length="16699397" type="application/octet-stream" sparkle:edSignature="wm1Yc265QAz5o7bMNOAlIqQYSSvlqBgvR8xka1zpLds+9tGdoHxIb32xO1weD+SzxFmsV+0+a6rrYD9IfZ3uBg=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.76/Weft-1.0.76-arm64.dmg" length="18420364" type="application/octet-stream" sparkle:edSignature="ynbT5qlEvZ1D5bUYLFjKRdd0o6L9znJX3gP7R2aGeTtS2QgwGdKIWNmSkhKjBcHA7Kz0vEL7oSv10KI7HbZhBg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: zLcBqSGtvDcaWOEyTAK1oxtEGGgtWI/2ftw9BzfXfU9f4RA6dZiUBTsUopXWrpW054zOLfsHoppe9WN9yD4DCA==
-length: 1350
+edSignature: GCPN/2lzV5Z4+Ery4z03g62IXC07WIwqx6dvkd5wuqOe+Xzc68gx7DvCbK3UmnATURuJFgyi5ES0X43ZIMJqCw==
+length: 1363
 -->
