@@ -4,20 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.0.71</title>
-            <pubDate>Fri, 06 Nov 2026 12:52:25 -0700</pubDate>
-            <sparkle:version>80</sparkle:version>
-            <sparkle:shortVersionString>1.0.71</sparkle:shortVersionString>
+            <title>1.0.72</title>
+            <pubDate>Fri, 06 Nov 2026 13:36:53 -0700</pubDate>
+            <sparkle:version>81</sparkle:version>
+            <sparkle:shortVersionString>1.0.72</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[## Claude Code worktrees
+            <description sparkle:format="markdown"><![CDATA[## Worktree preview addresses
 
-- When a linked Claude Code session has no saved conversation, Weft starts the session interactively so Claude Code can show its sign-in and workspace trust prompts. Saved conversations resume as before.
+- Automatic agent previews use the project name in their local address.
+- Existing UUID addresses still work. Weft uses UUID addresses when project names would conflict.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.71/Weft-1.0.71-arm64.dmg" length="18330103" type="application/octet-stream" sparkle:edSignature="LMOGv3HVOrLTKO6EgeTy/sS1d2TkDiMtlNyBs6efPAEcoqlmqLYhi7hHvG0GH0+xk9Pv/hI1aMbrvVKxx4jqDw=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.72/Weft-1.0.72-arm64.dmg" length="16659035" type="application/octet-stream" sparkle:edSignature="ln8GkEZwm0pTJbtFHrSawmWLfiLvWwHRhf9ly9ucg9FQttGfUbgxvKGNWP9UhnrugFXD87Ua1XGuK02fsAdLBg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ObAfMQObVjKqTlX7Onr9z38hqjMlaYTgvUfyfuZsOnAkg1DGpax2BnZaFYj6Po3mqUe3fg3YvWZxL+su30UcAA==
-length: 1440
+edSignature: UgKSM5FvUiQUpbsSdJeA3GvLMhNXCs3CgIsKlbPwzFQby1AYQ6Ri2yHjtKWBUrgJmRic7XNc1zZU7imCFoIhCg==
+length: 1411
 -->
