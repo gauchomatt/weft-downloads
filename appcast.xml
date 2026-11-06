@@ -4,22 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.0.68</title>
-            <pubDate>Fri, 06 Nov 2026 11:38:35 -0700</pubDate>
-            <sparkle:version>77</sparkle:version>
-            <sparkle:shortVersionString>1.0.68</sparkle:shortVersionString>
+            <title>1.0.69</title>
+            <pubDate>Fri, 06 Nov 2026 12:28:24 -0700</pubDate>
+            <sparkle:version>78</sparkle:version>
+            <sparkle:shortVersionString>1.0.69</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[## Agent workspaces
+            <description sparkle:format="markdown"><![CDATA[## Agent connections
 
-- The worktree picker shows each agent’s provider and CLI name, so agents with the same display name are easier to tell apart.
-- Create a local agent or sync Grok Bot agents directly from the picker.
-- Resume a linked Claude Code or Cursor Agent conversation from the worktree’s Overview. Weft opens the saved conversation in its assigned checkout.
+- Automatic connections are selected by default when reviewing a new Grok Bot setup. Saving the setup enables them for that project and account. Weft remembers when you turn the option off.
+- Choose a terminal in Settings for resuming agent sessions. With Ghostty selected, Weft opens the saved session in a new tab when a window is already open.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.68/Weft-1.0.68-arm64.dmg" length="18310288" type="application/octet-stream" sparkle:edSignature="iI7Lyxq6tA8ED2F9TC0xWEd/OrfxnFcmWb8a1v6tK6FXK3V+I/KeGl/0QGHDISifX56OQ5YE7+idA6NsYCQjAg=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.69/Weft-1.0.69-arm64.dmg" length="18327979" type="application/octet-stream" sparkle:edSignature="+emx1+DVfu0AxiE4u5w+keWmonzOo7kvQC3XgfGGXT/8Tyc/SbZSiZH4kUmNsjujzRjnhxINwHu3pmuL4mPmBA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: r1380naQnYoKSW1ipXDHLD50WF1WV6+okVSytkPU1IDr3Vml9VwIQhKvH3w2si/8apws4XfkAu68ocB0fr31Dg==
-length: 1584
+edSignature: KcaVVnp26vDB2gAZu0Z+3hZQg6RwfkNs3+zbKlhFR9y2hERYbieaCyrdtRzuZHC0oWlUwVL5LfwovvS9GMLNDQ==
+length: 1579
 -->
