@@ -4,20 +4,27 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.0.66</title>
-            <pubDate>Tue, 03 Nov 2026 11:37:51 -0700</pubDate>
-            <sparkle:version>75</sparkle:version>
-            <sparkle:shortVersionString>1.0.66</sparkle:shortVersionString>
+            <title>1.0.67</title>
+            <pubDate>Fri, 06 Nov 2026 09:29:55 -0700</pubDate>
+            <sparkle:version>76</sparkle:version>
+            <sparkle:shortVersionString>1.0.67</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[## Service restarts
+            <description sparkle:format="markdown"><![CDATA[## Workspaces and previews
 
-- Weft briefly waits for the previous service listener to close before checking for port conflicts during a restart.
+- Claude Code and local Cursor sessions can get named worktrees automatically and reuse them when resumed.
+- Running projects show a 16:9 preview in Overview. Hover over it and click to open it in your browser.
+- Grok Bot avatars use the roster’s shapes and colors, with support for older Grok Bot versions.
+
+## Setup and checks
+
+- Agent tools puts the connection action next to the tool it controls.
+- Weft handles more check-runner setup cases and discovers preview URLs from running services.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.66/Weft-1.0.66-arm64.dmg" length="16385332" type="application/octet-stream" sparkle:edSignature="Az51ibolKS0/nPoG6QgLeEYyxzCL41lEzzl0ZXtlJ4az1xdU/0k/7sI78Dt5F1WxlxVrhdFebuhMaL4E1XjXAg=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.67/Weft-1.0.67-arm64.dmg" length="16562236" type="application/octet-stream" sparkle:edSignature="LhzSBGwzI4wPCjA0SrpVgwnGa9EjbRCNgXkArJ7pVb0rvtPFHgTtzU0dWmz4Qti6c8s6B+FdMCx6ppyyeS0yAg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: +1fDtnUcyBo0DbDfZvLlG4FpoNeoef3x0Pq8O3fINuQxZ7ieP7qAMusc7F7jB0XpT0VgRv18llwOi8j9sjo2Bg==
-length: 1348
+edSignature: +YnJR9hTPhnAcLbX5Y3PIaBCUU25CTFXnCUdGm1WZJHafX7bGbPchzkZmBDWWmSHaKj4cchd3i0/d3GDZZbQBA==
+length: 1736
 -->
