@@ -4,21 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.0.77</title>
-            <pubDate>Fri, 06 Nov 2026 15:49:18 -0700</pubDate>
-            <sparkle:version>86</sparkle:version>
-            <sparkle:shortVersionString>1.0.77</sparkle:shortVersionString>
+            <title>1.0.78</title>
+            <pubDate>Fri, 06 Nov 2026 16:11:14 -0700</pubDate>
+            <sparkle:version>87</sparkle:version>
+            <sparkle:shortVersionString>1.0.78</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Weft 1.0.77
+            <description sparkle:format="markdown"><![CDATA[# Weft 1.0.78
 
-- Link a Cursor Agent chat to an existing local agent worktree without replacing a saved session.
-- Show the actor name in Ghostty tabs opened by Resume in Cursor.
+- Show embedded worktree previews as pages begin to render.
+- Try the worktree’s direct server port when its named preview route fails, and show a message if the preview is unavailable.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.77/Weft-1.0.77-arm64.dmg" length="18450815" type="application/octet-stream" sparkle:edSignature="NIwTVGEKYwAx52t/yRSL6katIFnUaWzNPmgppQdMAS8fuu4erwPAHqi/xp3VdKTWt7McXlZ3pxFYgAm9F747Aw=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.78/Weft-1.0.78-arm64.dmg" length="18485010" type="application/octet-stream" sparkle:edSignature="0uLjBtu4z632Wqpa4gwzCFz5F4/fYPzWcEqOYED5L2prJUc17QOcN5oxbhPCJLMdTmFTSfpMT0dgBxT+izEHBA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: CqCcMeduE7li5bcUhWJ/NYc4QM4vAjFHGnbBx+1c+S64qxOlEo7cA/APv9lM/L6MCseOCTaPeTfaMyHsa9UuDA==
-length: 1389
+edSignature: F9jRKGJSHRcXLccfiHh7yN7dTjyUWyaKoh+QywN/UQE97x4LCBRsgjBhykjpm7L7KMuqgOO07cv8RTL9K7W8CQ==
+length: 1413
 -->
