@@ -4,21 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.0.78</title>
-            <pubDate>Fri, 06 Nov 2026 16:11:14 -0700</pubDate>
-            <sparkle:version>87</sparkle:version>
-            <sparkle:shortVersionString>1.0.78</sparkle:shortVersionString>
+            <title>1.0.79</title>
+            <pubDate>Fri, 06 Nov 2026 18:36:46 -0700</pubDate>
+            <sparkle:version>88</sparkle:version>
+            <sparkle:shortVersionString>1.0.79</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Weft 1.0.78
-
-- Show embedded worktree previews as pages begin to render.
-- Try the worktree’s direct server port when its named preview route fails, and show a message if the preview is unavailable.
+            <description sparkle:format="markdown"><![CDATA[- Weft now shows when it is restoring worktrees after a restart.
+- Start is unavailable until restoration finishes, preventing a conflict with a restore already in progress.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.78/Weft-1.0.78-arm64.dmg" length="18485010" type="application/octet-stream" sparkle:edSignature="0uLjBtu4z632Wqpa4gwzCFz5F4/fYPzWcEqOYED5L2prJUc17QOcN5oxbhPCJLMdTmFTSfpMT0dgBxT+izEHBA=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.79/Weft-1.0.79-arm64.dmg" length="18483393" type="application/octet-stream" sparkle:edSignature="F158cepTicFOTZaFDA4BZ5krb0MyrxEIzcsjGrcp8+RdkjJ8mHWif1GhIguCO84m/WduwV/yxnjMxZZvObCrDQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: F9jRKGJSHRcXLccfiHh7yN7dTjyUWyaKoh+QywN/UQE97x4LCBRsgjBhykjpm7L7KMuqgOO07cv8RTL9K7W8CQ==
-length: 1413
+edSignature: aU3e9apwwJimssPvS9bN6izu3jy1dAc9wg/fZQfJgF4HQOnUUuk3xgkKP/9Mo4l5px6tmF0tJAlRCHSaLCOSCA==
+length: 1384
 -->
