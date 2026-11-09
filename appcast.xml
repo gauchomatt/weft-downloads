@@ -4,21 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.0.80</title>
-            <pubDate>Mon, 09 Nov 2026 12:13:59 -0700</pubDate>
-            <sparkle:version>89</sparkle:version>
-            <sparkle:shortVersionString>1.0.80</sparkle:shortVersionString>
+            <title>1.0.81</title>
+            <pubDate>Mon, 09 Nov 2026 12:41:12 -0700</pubDate>
+            <sparkle:version>90</sparkle:version>
+            <sparkle:shortVersionString>1.0.81</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[## Weft 1.0.80
+            <description sparkle:format="markdown"><![CDATA[## Weft 1.0.81
 
-- Manage Claude Code connections in Agent Tools and link existing Cursor chats from their worktrees.
-- See when a client is blocked from reaching Weft’s local connection.
+- Connect Weft tools from Agent Tools and use them with Cursor’s sandbox enabled.
+- Routed worktree previews show the actor after the URL in the browser tab title.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.80/Weft-1.0.80-arm64.dmg" length="16825500" type="application/octet-stream" sparkle:edSignature="ish0sHiDTqEz3HnQvY2o8MrgHzb5sakV6e8s8MtTYJHJacx6BLAqUu1jgeGLzV/uK6wVUQUId4NHGnr1Jlz0Bw=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.81/Weft-1.0.81-arm64.dmg" length="16859547" type="application/octet-stream" sparkle:edSignature="SnW4ndsXnfys+s+gRl0wV4LwNUlpktYNXKqlPLeqcghs40ZByrtDGd1RmYNJP85i8OUuFrCNnashfyGZska5CA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: TRr156t7CJWU2PQGU/0TR3IxdXei2Fm8Vv8v4yRdT5TyCSr7njP14RTwOn6hommWY6OAOBd8f99cL/aDM7JyBg==
-length: 1399
+edSignature: /ZOnH2FutWomajW6x4DlnPUpU1eumxKiubGdSM1DIK9jPzZfbpynoY+ob1xuk4xejdOpYKAAbZFPXYBgAcJyCQ==
+length: 1392
 -->
