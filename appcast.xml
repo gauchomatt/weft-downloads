@@ -4,19 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.0.79</title>
-            <pubDate>Fri, 06 Nov 2026 18:36:46 -0700</pubDate>
-            <sparkle:version>88</sparkle:version>
-            <sparkle:shortVersionString>1.0.79</sparkle:shortVersionString>
+            <title>1.0.80</title>
+            <pubDate>Mon, 09 Nov 2026 12:13:59 -0700</pubDate>
+            <sparkle:version>89</sparkle:version>
+            <sparkle:shortVersionString>1.0.80</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[- Weft now shows when it is restoring worktrees after a restart.
-- Start is unavailable until restoration finishes, preventing a conflict with a restore already in progress.
+            <description sparkle:format="markdown"><![CDATA[## Weft 1.0.80
+
+- Manage Claude Code connections in Agent Tools and link existing Cursor chats from their worktrees.
+- See when a client is blocked from reaching Weft’s local connection.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.79/Weft-1.0.79-arm64.dmg" length="18483393" type="application/octet-stream" sparkle:edSignature="F158cepTicFOTZaFDA4BZ5krb0MyrxEIzcsjGrcp8+RdkjJ8mHWif1GhIguCO84m/WduwV/yxnjMxZZvObCrDQ=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.80/Weft-1.0.80-arm64.dmg" length="16825500" type="application/octet-stream" sparkle:edSignature="ish0sHiDTqEz3HnQvY2o8MrgHzb5sakV6e8s8MtTYJHJacx6BLAqUu1jgeGLzV/uK6wVUQUId4NHGnr1Jlz0Bw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: aU3e9apwwJimssPvS9bN6izu3jy1dAc9wg/fZQfJgF4HQOnUUuk3xgkKP/9Mo4l5px6tmF0tJAlRCHSaLCOSCA==
-length: 1384
+edSignature: TRr156t7CJWU2PQGU/0TR3IxdXei2Fm8Vv8v4yRdT5TyCSr7njP14RTwOn6hommWY6OAOBd8f99cL/aDM7JyBg==
+length: 1399
 -->
