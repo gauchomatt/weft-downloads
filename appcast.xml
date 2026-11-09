@@ -4,21 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.0.81</title>
-            <pubDate>Mon, 09 Nov 2026 12:41:12 -0700</pubDate>
-            <sparkle:version>90</sparkle:version>
-            <sparkle:shortVersionString>1.0.81</sparkle:shortVersionString>
+            <title>1.0.82</title>
+            <pubDate>Mon, 09 Nov 2026 14:09:37 -0700</pubDate>
+            <sparkle:version>91</sparkle:version>
+            <sparkle:shortVersionString>1.0.82</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[## Weft 1.0.81
+            <description sparkle:format="markdown"><![CDATA[## Weft 1.0.82
 
-- Connect Weft tools from Agent Tools and use them with Cursor’s sandbox enabled.
-- Routed worktree previews show the actor after the URL in the browser tab title.
+- Routed worktree previews keep the app’s title and automatically append the actor in the browser tab.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.81/Weft-1.0.81-arm64.dmg" length="16859547" type="application/octet-stream" sparkle:edSignature="SnW4ndsXnfys+s+gRl0wV4LwNUlpktYNXKqlPLeqcghs40ZByrtDGd1RmYNJP85i8OUuFrCNnashfyGZska5CA=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.82/Weft-1.0.82-arm64.dmg" length="16859983" type="application/octet-stream" sparkle:edSignature="oT8c8/zUhQQCho7J1rE4vPfAEfH6ehQkJJuI0M1LLExZIcT18R00UeDNCEwxumkTfBpaHPdJWQyrYr4tClYUCw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: /ZOnH2FutWomajW6x4DlnPUpU1eumxKiubGdSM1DIK9jPzZfbpynoY+ob1xuk4xejdOpYKAAbZFPXYBgAcJyCQ==
-length: 1392
+edSignature: azz2dpTM0oy2gKEFPzDEu5wjIMaMZ8uM5y+ofIV/S5LUUBIes7mfx7LiULDC4XNFAnr54lVkCZNHlBwlJpqjCw==
+length: 1331
 -->
