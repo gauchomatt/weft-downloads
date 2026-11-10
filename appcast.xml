@@ -4,20 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.0.82</title>
-            <pubDate>Mon, 09 Nov 2026 14:09:37 -0700</pubDate>
-            <sparkle:version>91</sparkle:version>
-            <sparkle:shortVersionString>1.0.82</sparkle:shortVersionString>
+            <title>1.0.83</title>
+            <pubDate>Tue, 10 Nov 2026 13:53:46 -0700</pubDate>
+            <sparkle:version>93</sparkle:version>
+            <sparkle:shortVersionString>1.0.83</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[## Weft 1.0.82
+            <description sparkle:format="markdown"><![CDATA[## Weft 1.0.83
 
-- Routed worktree previews keep the app’s title and automatically append the actor in the browser tab.
+- Scoped checks refresh the configured remote branch before selecting changed files, so merged upstream changes are excluded. JSON results show the comparison branch and merge-base commit.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.82/Weft-1.0.82-arm64.dmg" length="16859983" type="application/octet-stream" sparkle:edSignature="oT8c8/zUhQQCho7J1rE4vPfAEfH6ehQkJJuI0M1LLExZIcT18R00UeDNCEwxumkTfBpaHPdJWQyrYr4tClYUCw=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.83/Weft-1.0.83-arm64.dmg" length="16886634" type="application/octet-stream" sparkle:edSignature="2oeCSLqGhCE6au7B6crk/QY5UnYbXnR79Llz7HhHQ6/KWCN/c4WPddALhkmyVFt7gdIWVLi+NbMUf6ICefDjCA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: azz2dpTM0oy2gKEFPzDEu5wjIMaMZ8uM5y+ofIV/S5LUUBIes7mfx7LiULDC4XNFAnr54lVkCZNHlBwlJpqjCw==
-length: 1331
+edSignature: jsUqpSu4Mxm+Sk8ikCJwRc59aueVFBLXG/LvlQdXmThswe86ARNwb6LrU4ydiwA7jymdkCzjn0PlmnNAXifGDQ==
+length: 1415
 -->
