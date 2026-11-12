@@ -4,21 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.0.87</title>
-            <pubDate>Thu, 12 Nov 2026 08:19:18 -0700</pubDate>
-            <sparkle:version>97</sparkle:version>
-            <sparkle:shortVersionString>1.0.87</sparkle:shortVersionString>
+            <title>1.0.88</title>
+            <pubDate>Thu, 12 Nov 2026 09:19:19 -0700</pubDate>
+            <sparkle:version>98</sparkle:version>
+            <sparkle:shortVersionString>1.0.88</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[## Weft 1.0.87
-
-- Show Cursor CLI subagent worktrees under their parent agent and clean up disposable checkouts when a foreground task succeeds. Existing Weft-managed Cursor hooks update when the app opens.
-- Simplify workspace setup, check settings, and approval dialogs. Technical check options are available under Advanced.
+            <description sparkle:format="markdown"><![CDATA[- The sidebar badge now counts active Cursor desktop Multitask agents, including agents that share the parent checkout. Weft cleans up a temporary checkout only after its owner finishes successfully and the checkout passes safety checks.
+- Operators shows the Claude and Cursor logos for their linked workspaces.
+- Existing Weft-managed Cursor hooks pick up the new agent lifecycle events automatically when Weft opens after the update.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.87/Weft-1.0.87-arm64.dmg" length="18848654" type="application/octet-stream" sparkle:edSignature="oJYM5/taCiE3PZ+ZpoEHTzhxSYzvdSqEVB+tgYPKm5ZSoPmDGVe1s8ahkAWv5yL70E0ZQH3FtNnhhhyI08kYCQ=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.88/Weft-1.0.88-arm64.dmg" length="18834683" type="application/octet-stream" sparkle:edSignature="EiX/BR6JJAnu34lBk6xwi/A/PEi2wo/ErS02DACUF2sP7YUAikuVq+QTFcAPOKOImNWkjs03fg+M3d7jsXGQDg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: fVxrAhr70bm42dfVKOjF6ixVfrrO0/bbsqZGqkztP5yyPKTrdV7en6f3HtHsxDS16wDOD9bVlh0uYjNNwAdkAA==
-length: 1537
+edSignature: A8PRCClJdn9jrtBO4G81ORCLI2/K5tOKQIgX1mVnkMukiUD9XWNryM2NR9dIWMuMog/MEJEZDQCPgj/TWpgXDQ==
+length: 1647
 -->
