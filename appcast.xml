@@ -4,20 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.0.83</title>
-            <pubDate>Tue, 10 Nov 2026 13:53:46 -0700</pubDate>
-            <sparkle:version>93</sparkle:version>
-            <sparkle:shortVersionString>1.0.83</sparkle:shortVersionString>
+            <title>1.0.85</title>
+            <pubDate>Wed, 11 Nov 2026 21:38:17 -0700</pubDate>
+            <sparkle:version>95</sparkle:version>
+            <sparkle:shortVersionString>1.0.85</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[## Weft 1.0.83
+            <description sparkle:format="markdown"><![CDATA[## Weft 1.0.85
 
-- Scoped checks refresh the configured remote branch before selecting changed files, so merged upstream changes are excluded. JSON results show the comparison branch and merge-base commit.
+- Group temporary subagent worktrees under their parent actor. Hover over the sidebar count to see running tasks, open checkouts, or review cleanup.
+- Report subagent starts and finishes through the CLI. Cleanup preserves branches and keeps checkouts with local work or active services for review.
+- Restore Grok Bot 1.0.1 avatar sync and configure time limits for individual check actions.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.83/Weft-1.0.83-arm64.dmg" length="16886634" type="application/octet-stream" sparkle:edSignature="2oeCSLqGhCE6au7B6crk/QY5UnYbXnR79Llz7HhHQ6/KWCN/c4WPddALhkmyVFt7gdIWVLi+NbMUf6ICefDjCA=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.85/Weft-1.0.85-arm64.dmg" length="18771142" type="application/octet-stream" sparkle:edSignature="FtmPMPW/v2+RiifIv4ngPAJbKsYaf0Yg/oONK3+LKBMK5oraEQFanMYvTnGNBeAdkMd4RuD8JAE47Fgh4+0ZAg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: jsUqpSu4Mxm+Sk8ikCJwRc59aueVFBLXG/LvlQdXmThswe86ARNwb6LrU4ydiwA7jymdkCzjn0PlmnNAXifGDQ==
-length: 1415
+edSignature: n/qdZV7bliM7m7UIs/eCwjA4a3mpnMbUvFMfqf8gKT+aE6Zxk3jI8tb8PiPA/dWbFboP963myXXuFUrN0R3eBA==
+length: 1617
 -->
