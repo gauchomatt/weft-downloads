@@ -4,19 +4,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.0.89</title>
-            <pubDate>Thu, 12 Nov 2026 10:30:22 -0700</pubDate>
-            <sparkle:version>99</sparkle:version>
-            <sparkle:shortVersionString>1.0.89</sparkle:shortVersionString>
+            <title>1.0.90</title>
+            <pubDate>Thu, 12 Nov 2026 10:59:45 -0700</pubDate>
+            <sparkle:version>100</sparkle:version>
+            <sparkle:shortVersionString>1.0.90</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[- Weft saves Cursor subagent completions and retries worktree cleanup in the background if Weft is busy restoring services or the connection times out.
-- Worktree safety checks still apply. Existing Weft-managed Cursor hooks update automatically on launch.
+            <description sparkle:format="markdown"><![CDATA[- The Cursor Multitask badge updates as each agent finishes. It no longer waits for the full workspace refresh after Weft records the cleanup.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.89/Weft-1.0.89-arm64.dmg" length="18836159" type="application/octet-stream" sparkle:edSignature="tZslZbg8iJilQUMMzeSsic/m1WvJzA6R8lMfPHA41UBW98atHsdV3zaCJJZCyb3Nwl6HB2IMV3rI4r52CcK7Bw=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.90/Weft-1.0.90-arm64.dmg" length="18841683" type="application/octet-stream" sparkle:edSignature="QCC8y33wP++MebNWYWdQB2lPHxGCkJErGROMZwo0oCp88PkibWdG39AOAtotZQm240+XvGA/JbwBxSWizwUnCw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: QX22x0KNgm79DQ5F38BUYrqf1rpH5Oz+dFGdnn4IjEof/EsxeKr7gfVolQStahu9GH0mfYKWvvvlhIbJ9g7BBw==
-length: 1467
+edSignature: EV8lasV9OUyWssv1QxmMbLZZ2s7sQLnRiDa7ExSec3CKwQpYtF5jJRfXUPU6A3GUNJ5mWUaDOsvQp/UetrtEBQ==
+length: 1354
 -->
