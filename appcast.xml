@@ -4,20 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.0.88</title>
-            <pubDate>Thu, 12 Nov 2026 09:19:19 -0700</pubDate>
-            <sparkle:version>98</sparkle:version>
-            <sparkle:shortVersionString>1.0.88</sparkle:shortVersionString>
+            <title>1.0.89</title>
+            <pubDate>Thu, 12 Nov 2026 10:30:22 -0700</pubDate>
+            <sparkle:version>99</sparkle:version>
+            <sparkle:shortVersionString>1.0.89</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[- The sidebar badge now counts active Cursor desktop Multitask agents, including agents that share the parent checkout. Weft cleans up a temporary checkout only after its owner finishes successfully and the checkout passes safety checks.
-- Operators shows the Claude and Cursor logos for their linked workspaces.
-- Existing Weft-managed Cursor hooks pick up the new agent lifecycle events automatically when Weft opens after the update.
+            <description sparkle:format="markdown"><![CDATA[- Weft saves Cursor subagent completions and retries worktree cleanup in the background if Weft is busy restoring services or the connection times out.
+- Worktree safety checks still apply. Existing Weft-managed Cursor hooks update automatically on launch.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.88/Weft-1.0.88-arm64.dmg" length="18834683" type="application/octet-stream" sparkle:edSignature="EiX/BR6JJAnu34lBk6xwi/A/PEi2wo/ErS02DACUF2sP7YUAikuVq+QTFcAPOKOImNWkjs03fg+M3d7jsXGQDg=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.89/Weft-1.0.89-arm64.dmg" length="18836159" type="application/octet-stream" sparkle:edSignature="tZslZbg8iJilQUMMzeSsic/m1WvJzA6R8lMfPHA41UBW98atHsdV3zaCJJZCyb3Nwl6HB2IMV3rI4r52CcK7Bw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: A8PRCClJdn9jrtBO4G81ORCLI2/K5tOKQIgX1mVnkMukiUD9XWNryM2NR9dIWMuMog/MEJEZDQCPgj/TWpgXDQ==
-length: 1647
+edSignature: QX22x0KNgm79DQ5F38BUYrqf1rpH5Oz+dFGdnn4IjEof/EsxeKr7gfVolQStahu9GH0mfYKWvvvlhIbJ9g7BBw==
+length: 1467
 -->
