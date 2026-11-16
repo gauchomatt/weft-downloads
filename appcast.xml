@@ -4,20 +4,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.0.95</title>
-            <pubDate>Mon, 16 Nov 2026 09:18:47 -0700</pubDate>
-            <sparkle:version>105</sparkle:version>
-            <sparkle:shortVersionString>1.0.95</sparkle:shortVersionString>
+            <title>1.0.96</title>
+            <pubDate>Mon, 16 Nov 2026 09:55:45 -0700</pubDate>
+            <sparkle:version>106</sparkle:version>
+            <sparkle:shortVersionString>1.0.96</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[- Link Cursor and Claude Code conversations automatically when a configured hook reports a session from the agent’s Weft worktree.
-- Add Codex conversation hooks and accept conversation IDs from Grok Bot and other integrations during worktree setup.
-- Keep existing conversation links and workspace reservations in place when discovering sessions.
+            <description sparkle:format="markdown"><![CDATA[- Make the worktree concurrency test wait for preparation to start and hold it open until contention checks finish, so slow Git setup no longer causes false failures.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.95/Weft-1.0.95-arm64.dmg" length="19120867" type="application/octet-stream" sparkle:edSignature="W1PeALpqWCtqUoKzwfHES8EXDoPXePx/BVny+JC1wps94YmJUUUI3hDOkgepJNQncq0Bb3b4rjWpxqupWIASDA=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.96/Weft-1.0.96-arm64.dmg" length="19121650" type="application/octet-stream" sparkle:edSignature="eyuf9uGP23R9Jyrf8gEqZxjURqSZR3r00+2x8nd+pKZBmU74p6Mm0dSEbWMWlzncLnqlzZKqUBU3RqcSLR9BCg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: zWIjPKp02u2M0NvKaKWcCEojswtA9F57iIJFV0ojUrBvVuOm15v+gm6vkW2wMTmmpWbtEAe7Y6BL49XZUl3uDQ==
-length: 1561
+edSignature: LEFbqMAgwbQnmZOSUXcw7CuIxcjFLfzuaU1Tzn1VgKSI8Az/Xq91KSDFIoPHkK5L0yu0/S32cq2IbOdNKnl4BQ==
+length: 1378
 -->
