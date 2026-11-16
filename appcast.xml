@@ -4,20 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.0.93</title>
-            <pubDate>Mon, 16 Nov 2026 08:22:43 -0700</pubDate>
-            <sparkle:version>103</sparkle:version>
-            <sparkle:shortVersionString>1.0.93</sparkle:shortVersionString>
+            <title>1.0.94</title>
+            <pubDate>Mon, 16 Nov 2026 08:41:32 -0700</pubDate>
+            <sparkle:version>104</sparkle:version>
+            <sparkle:shortVersionString>1.0.94</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[- See recent Claude Code and Cursor conversations in a worktree, resume a conversation on the current branch, or start a new one.
-- Resume Cursor conversations in their existing actor worktree.
-- Restore compatibility with Grok Bot 1.1 avatars.
+            <description sparkle:format="markdown"><![CDATA[- Clear stale subagent badges when Cursor hands off work to a cloud agent without a local checkout.
+- Match Cursor completion events to the right local subagent when its task and subagent IDs differ.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.93/Weft-1.0.93-arm64.dmg" length="19045391" type="application/octet-stream" sparkle:edSignature="zDeZ9rjyoLkxyRoHGYFCyQ6GP7P7N7v3f+t+Z2ChZ8HA4+qTcZ0ODJA6RWlvWqKtkWLQ/PWRvQQxJ/xo21x8Bg=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.94/Weft-1.0.94-arm64.dmg" length="19045563" type="application/octet-stream" sparkle:edSignature="lGm/JGVDH4kkcLFwujsa++vuBDQxb0HGjNeOJiEqA5KBcGgBYNWFXO+IxXyBxHbBx/4KJd6OdRq0ytYmqbI4AA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: t0L5v2oZQjmDhKkUNnZhRFq3LCaMGppkXt0D2RtFKeQm1Phrgdg63krpVgo2KcF8fmCPcqNF4GdSTfVHybKDBg==
-length: 1456
+edSignature: gJjtGeL/NxEU/3D0Bnsn99UIXDNtLPcirjdYYKFwTT56VDHBJ2CNvnKnllN6EVt2KCcCypZFIiqOlBX1w07SCw==
+length: 1411
 -->
