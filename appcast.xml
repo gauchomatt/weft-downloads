@@ -4,18 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.0.96</title>
-            <pubDate>Mon, 16 Nov 2026 09:55:45 -0700</pubDate>
-            <sparkle:version>106</sparkle:version>
-            <sparkle:shortVersionString>1.0.96</sparkle:shortVersionString>
+            <title>1.0.97</title>
+            <pubDate>Mon, 16 Nov 2026 12:26:55 -0700</pubDate>
+            <sparkle:version>107</sparkle:version>
+            <sparkle:shortVersionString>1.0.97</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[- Make the worktree concurrency test wait for preparation to start and hold it open until contention checks finish, so slow Git setup no longer causes false failures.
+            <description sparkle:format="markdown"><![CDATA[- Manage personal service keys and connectivity checks in Requirements. Import a local profile or declare checks in a reviewed recipe.
+- Share a Keychain entry across approved worktrees and see which services need attention. Required checks block the affected services and their dependents.
+- See the linked agent tool and actor beside the workspace avatar in Weft and Operator.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.96/Weft-1.0.96-arm64.dmg" length="19121650" type="application/octet-stream" sparkle:edSignature="eyuf9uGP23R9Jyrf8gEqZxjURqSZR3r00+2x8nd+pKZBmU74p6Mm0dSEbWMWlzncLnqlzZKqUBU3RqcSLR9BCg=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.97/Weft-1.0.97-arm64.dmg" length="19485089" type="application/octet-stream" sparkle:edSignature="OMenkqalyaLOec1rFOMVWJo0pcqGp7Us0Ayzz1fx7V3oFKdTNmYk9pqYhmwny2r66/vtzneFXrgn84W/EejFBw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: LEFbqMAgwbQnmZOSUXcw7CuIxcjFLfzuaU1Tzn1VgKSI8Az/Xq91KSDFIoPHkK5L0yu0/S32cq2IbOdNKnl4BQ==
-length: 1378
+edSignature: q0OGRiDpYVesoK2D5V31rlgC+oFg53lppqLz7QeXcmFnc21pp6ZgQ/5HDpbB54GUyC2/nBTGVj7aArVAP9IMCw==
+length: 1590
 -->
