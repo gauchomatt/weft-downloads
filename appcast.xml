@@ -4,18 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.0.92</title>
-            <pubDate>Fri, 13 Nov 2026 15:39:55 -0700</pubDate>
-            <sparkle:version>102</sparkle:version>
-            <sparkle:shortVersionString>1.0.92</sparkle:shortVersionString>
+            <title>1.0.93</title>
+            <pubDate>Mon, 16 Nov 2026 08:22:43 -0700</pubDate>
+            <sparkle:version>103</sparkle:version>
+            <sparkle:shortVersionString>1.0.93</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[- Checks show why the full suite ran and how many test files it selected when the project reports a count.
+            <description sparkle:format="markdown"><![CDATA[- See recent Claude Code and Cursor conversations in a worktree, resume a conversation on the current branch, or start a new one.
+- Resume Cursor conversations in their existing actor worktree.
+- Restore compatibility with Grok Bot 1.1 avatars.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.92/Weft-1.0.92-arm64.dmg" length="18861088" type="application/octet-stream" sparkle:edSignature="EvFx/Kq852OiBRI/9/482K1tkkTI8zt226OV69iP9BFzTp6KgsjfxbGZqNGsVMGEcuSpNQ1Yp7ynLm5uu/GPCw=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.93/Weft-1.0.93-arm64.dmg" length="19045391" type="application/octet-stream" sparkle:edSignature="zDeZ9rjyoLkxyRoHGYFCyQ6GP7P7N7v3f+t+Z2ChZ8HA4+qTcZ0ODJA6RWlvWqKtkWLQ/PWRvQQxJ/xo21x8Bg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: eic6amBAM8H2RsoX79FeNkYiTBd3wbMTF+QIXdATUf8XLBNZjn5EVbW6+9I4fzzHpMq9fBnzKdtD7Xvq+feLDQ==
-length: 1318
+edSignature: t0L5v2oZQjmDhKkUNnZhRFq3LCaMGppkXt0D2RtFKeQm1Phrgdg63krpVgo2KcF8fmCPcqNF4GdSTfVHybKDBg==
+length: 1456
 -->
