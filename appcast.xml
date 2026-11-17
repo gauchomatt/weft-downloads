@@ -4,20 +4,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.0.97</title>
-            <pubDate>Mon, 16 Nov 2026 12:26:55 -0700</pubDate>
-            <sparkle:version>107</sparkle:version>
-            <sparkle:shortVersionString>1.0.97</sparkle:shortVersionString>
+            <title>1.0.98</title>
+            <pubDate>Tue, 17 Nov 2026 08:24:19 -0700</pubDate>
+            <sparkle:version>108</sparkle:version>
+            <sparkle:shortVersionString>1.0.98</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[- Manage personal service keys and connectivity checks in Requirements. Import a local profile or declare checks in a reviewed recipe.
-- Share a Keychain entry across approved worktrees and see which services need attention. Required checks block the affected services and their dependents.
-- See the linked agent tool and actor beside the workspace avatar in Weft and Operator.
+            <description sparkle:format="markdown"><![CDATA[- Restore generated agent avatars when Weft starts with Grok Bot 1.2 installed.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.97/Weft-1.0.97-arm64.dmg" length="19485089" type="application/octet-stream" sparkle:edSignature="OMenkqalyaLOec1rFOMVWJo0pcqGp7Us0Ayzz1fx7V3oFKdTNmYk9pqYhmwny2r66/vtzneFXrgn84W/EejFBw=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.98/Weft-1.0.98-arm64.dmg" length="19484305" type="application/octet-stream" sparkle:edSignature="tlusFTQNGivmBsf5zr8X0aqKGQK79dtPeHReS3x9wqBXDpZN19a7T77gEjNZ9IeGJmgbiExCTg2yRyA3RDneBg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: q0OGRiDpYVesoK2D5V31rlgC+oFg53lppqLz7QeXcmFnc21pp6ZgQ/5HDpbB54GUyC2/nBTGVj7aArVAP9IMCw==
-length: 1590
+edSignature: imqxt2/SGfhL0aDlh54wzJ5x2WILkMX0sXaXG5kiYJ5hJAOQ9zbqMMccRq22ODY7Y1UlvY+EQzTnLMUiFGHfBQ==
+length: 1291
 -->
