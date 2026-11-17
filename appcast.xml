@@ -4,20 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.1.0</title>
-            <pubDate>Tue, 17 Nov 2026 14:22:25 -0700</pubDate>
-            <sparkle:version>112</sparkle:version>
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <title>1.1.1</title>
+            <pubDate>Tue, 17 Nov 2026 15:05:01 -0700</pubDate>
+            <sparkle:version>113</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[- Allow projects to reserve full checks for explicit verification before merging.
-- Lead check reports and agent notices with the failing test and assertion ahead of browser-server output.
-- Keep agent preview addresses scoped to their projects and prevent duplicate standing worktrees.
+            <description sparkle:format="markdown"><![CDATA[- Let agents finish their own workspace reservation when handing off work.
+- Release a matching reservation after a verified GitHub merge while preserving the worktree and preview.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.0/Weft-1.1.0-arm64.dmg" length="19529287" type="application/octet-stream" sparkle:edSignature="2aqT6oJsuG3WupU/Fkf3CpgNEOKWdtOWMJBruLdRVDYcq/X1XLn+WdDAkZxhPAr8QBmmw4pxqY07bWeDGWA0AA=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.1/Weft-1.1.1-arm64.dmg" length="19571662" type="application/octet-stream" sparkle:edSignature="H47TMYTOKQqH7fmHC/OvjDH869LYjaU3hMrM9RYW/cLXAMjSgtdwUVVyTmrI8XkuqN7bI3TgWmCJYWv9ArDMBw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: c4Xyace9ipnROJAzvCII/WVITOKMpSMo8qKAn1DucBn9MbtXRhRPLM+9lb9aSuQUyU5AkkGISyJzgghOg9gkAA==
-length: 1494
+edSignature: GnUrXrSsqp8zIvkxROeuGi2CzT311as+kmjgTk+6L4ly/5B4V+6kyrMfbypJtKlrxD1AnjtTeNyS7+gnJxwfDA==
+length: 1388
 -->
