@@ -4,19 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.0.99</title>
-            <pubDate>Tue, 17 Nov 2026 08:57:47 -0700</pubDate>
-            <sparkle:version>109</sparkle:version>
-            <sparkle:shortVersionString>1.0.99</sparkle:shortVersionString>
+            <title>1.0.100</title>
+            <pubDate>Tue, 17 Nov 2026 09:25:17 -0700</pubDate>
+            <sparkle:version>110</sparkle:version>
+            <sparkle:shortVersionString>1.0.100</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[- Show the linked Claude Code or Cursor icon and the Grok Bot agent’s profile avatar across workspace rows, connection pickers, and rosters.
-- Use the Grok Bot icon when a profile avatar is unavailable.
+            <description sparkle:format="markdown"><![CDATA[- Allow a registered workspace to use a custom preview hostname while keeping its previous hostname reachable.
+- Choose names for new workspace folders and previews within their project, so a name registered elsewhere does not cause a suffix.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.99/Weft-1.0.99-arm64.dmg" length="19513049" type="application/octet-stream" sparkle:edSignature="gcOUXdToF63SVaTA4KsjcaJaCyUQMUKK3PEb1TfAW0va/0P6fKhdsx2FEuW84dCsDmTnRllBc7n6HpZkPaCPAQ=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.100/Weft-1.0.100-arm64.dmg" length="19523958" type="application/octet-stream" sparkle:edSignature="7GLu7qj0oCvVGAtgxftQFG2xeCMPucJzRWz8wD4iW9iioNpbbtQ1OzULVCDEN/B2NuqJPBfXTR0AA0yD/qgpCA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: dfaIYua2Ktundgbf+moG2JuazblC4FYiOE6JX44c1KMBXbVBBr0n4Oslz+dABEvOcYhKUcHPx2hmdgyeB6OFCQ==
-length: 1416
+edSignature: FGdCJpyxp7eWgOMjJXNx15k+wjwTqv/b5r2MEW46LK6HqMDAo11JD5x961TNJpwO1+nk5+trHbpGS9tdSqxNBw==
+length: 1458
 -->
