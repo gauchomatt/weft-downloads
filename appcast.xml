@@ -4,19 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.0.101</title>
-            <pubDate>Tue, 17 Nov 2026 14:13:10 -0700</pubDate>
-            <sparkle:version>111</sparkle:version>
-            <sparkle:shortVersionString>1.0.101</sparkle:shortVersionString>
+            <title>1.1.0</title>
+            <pubDate>Tue, 17 Nov 2026 14:22:25 -0700</pubDate>
+            <sparkle:version>112</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description sparkle:format="markdown"><![CDATA[- Allow projects to reserve full checks for explicit verification before merging.
 - Lead check reports and agent notices with the failing test and assertion ahead of browser-server output.
+- Keep agent preview addresses scoped to their projects and prevent duplicate standing worktrees.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.101/Weft-1.0.101-arm64.dmg" length="19528520" type="application/octet-stream" sparkle:edSignature="zLbU6M5cFrF33MvnIbqLw55I+lF8fvUti8yYPlbtH+MBNyiBgi7m9QCnlwXbGBrg4izCyb9YDHh/dayogeDsCw=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.0/Weft-1.1.0-arm64.dmg" length="19529287" type="application/octet-stream" sparkle:edSignature="2aqT6oJsuG3WupU/Fkf3CpgNEOKWdtOWMJBruLdRVDYcq/X1XLn+WdDAkZxhPAr8QBmmw4pxqY07bWeDGWA0AA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: tmfgJScqmUXvxQhywXoFp9sTlptiVMZwT0ljMbeFQl/UtaGa41vzD493cz6lhjO2IiAhv+JSw6c2G3eljioUBg==
-length: 1404
+edSignature: c4Xyace9ipnROJAzvCII/WVITOKMpSMo8qKAn1DucBn9MbtXRhRPLM+9lb9aSuQUyU5AkkGISyJzgghOg9gkAA==
+length: 1494
 -->
