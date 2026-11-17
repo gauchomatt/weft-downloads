@@ -4,19 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.0.100</title>
-            <pubDate>Tue, 17 Nov 2026 09:25:17 -0700</pubDate>
-            <sparkle:version>110</sparkle:version>
-            <sparkle:shortVersionString>1.0.100</sparkle:shortVersionString>
+            <title>1.0.101</title>
+            <pubDate>Tue, 17 Nov 2026 14:13:10 -0700</pubDate>
+            <sparkle:version>111</sparkle:version>
+            <sparkle:shortVersionString>1.0.101</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[- Allow a registered workspace to use a custom preview hostname while keeping its previous hostname reachable.
-- Choose names for new workspace folders and previews within their project, so a name registered elsewhere does not cause a suffix.
+            <description sparkle:format="markdown"><![CDATA[- Allow projects to reserve full checks for explicit verification before merging.
+- Lead check reports and agent notices with the failing test and assertion ahead of browser-server output.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.100/Weft-1.0.100-arm64.dmg" length="19523958" type="application/octet-stream" sparkle:edSignature="7GLu7qj0oCvVGAtgxftQFG2xeCMPucJzRWz8wD4iW9iioNpbbtQ1OzULVCDEN/B2NuqJPBfXTR0AA0yD/qgpCA=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.0.101/Weft-1.0.101-arm64.dmg" length="19528520" type="application/octet-stream" sparkle:edSignature="zLbU6M5cFrF33MvnIbqLw55I+lF8fvUti8yYPlbtH+MBNyiBgi7m9QCnlwXbGBrg4izCyb9YDHh/dayogeDsCw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: FGdCJpyxp7eWgOMjJXNx15k+wjwTqv/b5r2MEW46LK6HqMDAo11JD5x961TNJpwO1+nk5+trHbpGS9tdSqxNBw==
-length: 1458
+edSignature: tmfgJScqmUXvxQhywXoFp9sTlptiVMZwT0ljMbeFQl/UtaGa41vzD493cz6lhjO2IiAhv+JSw6c2G3eljioUBg==
+length: 1404
 -->
