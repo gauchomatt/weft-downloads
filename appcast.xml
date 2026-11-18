@@ -4,18 +4,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.1.2</title>
-            <pubDate>Tue, 17 Nov 2026 15:30:25 -0700</pubDate>
-            <sparkle:version>114</sparkle:version>
-            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <title>1.1.3</title>
+            <pubDate>Tue, 17 Nov 2026 23:15:49 -0700</pubDate>
+            <sparkle:version>115</sparkle:version>
+            <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[- Clear a verified merged reservation after its clean worktree has moved directly to detached origin/main.
+            <description sparkle:format="markdown"><![CDATA[- Let a linked Cursor chat resume its own reservation with its original private lease.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.2/Weft-1.1.2-arm64.dmg" length="19589116" type="application/octet-stream" sparkle:edSignature="KejQNnbZkRxe01bps+MYm6pAOjYf37bflSChUPbTBI3ntQSDoUsBFuHF7gxyAbk0u7lsU7gBHtAxxicNYURyAg=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.3/Weft-1.1.3-arm64.dmg" length="19602210" type="application/octet-stream" sparkle:edSignature="nQtF5Fc+mmGNdthcQNf3CUjNXVL1NM191P+KESo4BG2OjzZxhB67YWOpMJum4/9K+6eKF0T46TNQ938GG5i4Bg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 280zYurrJCsUvPH5Axg3ZxpGbdeoxNW/CwtKjHZ7q+drbA3Csg/SRP/8LoEPePAEOVva5YktoEJEaZ2YaZykCA==
-length: 1314
+edSignature: bty6FBzXw57x/gOLh1wBxdHHBY7aZQMasOzZm8/2F+QhfcIOwsXvsJmpwiNKXWts89qjOOdp9g9/xFwh8PWeCg==
+length: 1294
 -->
