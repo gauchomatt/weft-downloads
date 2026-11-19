@@ -4,19 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.1.6</title>
-            <pubDate>Thu, 19 Nov 2026 11:51:32 -0700</pubDate>
-            <sparkle:version>118</sparkle:version>
-            <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
+            <title>1.1.7</title>
+            <pubDate>Thu, 19 Nov 2026 12:47:35 -0700</pubDate>
+            <sparkle:version>119</sparkle:version>
+            <sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[- Agents using terminal commands now automatically show their app and icon, including Claude Desktop, Claude Code, Cursor and Codex.
-- Existing agents pick up the app association on their next successful workspace claim.
+            <description sparkle:format="markdown"><![CDATA[- Existing agents now receive their app name and icon automatically when matching local session history is available, at startup and during background refresh.
+- Workspace status checks can identify the current app without another claim. Existing reservations and explicit app choices are preserved.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.6/Weft-1.1.6-arm64.dmg" length="18713064" type="application/octet-stream" sparkle:edSignature="NUgAXOERC525xC1/xpHjJlUV4X6sCFwHHZUUPoeEoQyO28nCuxWcAvH2KD17xebckwzP++Hx9aHYYQ7EKQ7zAQ=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.7/Weft-1.1.7-arm64.dmg" length="18802382" type="application/octet-stream" sparkle:edSignature="6AjeBJ77xQqOfsO9j265qYwJ/CVFcOi9ER3twn7w4bqAZrvpvuXPUh5N3LraiEGSAtQe3G2UzdsxOBmqs7GZBA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ZQGXRhgdFnrRyCDDKjMdquM1nR/bRO1eufv6e4wH/ghDAhSUWDoWmwSIF1BZjjP9X48V/JZqpsF4BQJqxVDsDg==
-length: 1428
+edSignature: CjI7TqRho9wNTqIx16kxLD04k+AuIxKoSMRxNJDTpmViKCBPZrUbPEY3YwDoBEh3Oz5cqw534PJfpDNDr8XiAw==
+length: 1507
 -->
