@@ -4,20 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.1.5</title>
-            <pubDate>Thu, 19 Nov 2026 11:31:11 -0700</pubDate>
-            <sparkle:version>117</sparkle:version>
-            <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
+            <title>1.1.6</title>
+            <pubDate>Thu, 19 Nov 2026 11:51:32 -0700</pubDate>
+            <sparkle:version>118</sparkle:version>
+            <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[- Agents now show their associated app and icon, including Claude Desktop, Claude Code, Cursor and Codex.
-- Choose an app during setup or change it in Details without recreating the agent or linking a conversation.
-- MCP setup recognizes supported client names and carries the app association into workspace creation and claims.
+            <description sparkle:format="markdown"><![CDATA[- Agents using terminal commands now automatically show their app and icon, including Claude Desktop, Claude Code, Cursor and Codex.
+- Existing agents pick up the app association on their next successful workspace claim.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.5/Weft-1.1.5-arm64.dmg" length="18711213" type="application/octet-stream" sparkle:edSignature="crmGowJcuVbmPb7eoHTCSDDIu+rKzd8LCdJdOVNiqqKmzAYnnPDituOjFVmK4VWMRZOU4ab0XmC5t6Me7CTnDA=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.6/Weft-1.1.6-arm64.dmg" length="18713064" type="application/octet-stream" sparkle:edSignature="NUgAXOERC525xC1/xpHjJlUV4X6sCFwHHZUUPoeEoQyO28nCuxWcAvH2KD17xebckwzP++Hx9aHYYQ7EKQ7zAQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: rgRFP1GjjVdhSfi9Z7hN6Iqj6jBGHZY/6u+7wrNgc24FktgbQzLLQir7pX3NoCbk0rSzT9MBotowrvTCbqHYCA==
-length: 1536
+edSignature: ZQGXRhgdFnrRyCDDKjMdquM1nR/bRO1eufv6e4wH/ghDAhSUWDoWmwSIF1BZjjP9X48V/JZqpsF4BQJqxVDsDg==
+length: 1428
 -->
