@@ -4,18 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.1.4</title>
-            <pubDate>Wed, 18 Nov 2026 07:39:05 -0700</pubDate>
-            <sparkle:version>116</sparkle:version>
-            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
+            <title>1.1.5</title>
+            <pubDate>Thu, 19 Nov 2026 11:31:11 -0700</pubDate>
+            <sparkle:version>117</sparkle:version>
+            <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[- Relink a stale Cursor chat from any connected worktree and resume its reservation in the selected chat.
+            <description sparkle:format="markdown"><![CDATA[- Agents now show their associated app and icon, including Claude Desktop, Claude Code, Cursor and Codex.
+- Choose an app during setup or change it in Details without recreating the agent or linking a conversation.
+- MCP setup recognizes supported client names and carries the app association into workspace creation and claims.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.4/Weft-1.1.4-arm64.dmg" length="19643829" type="application/octet-stream" sparkle:edSignature="NhE8P9QeO238akWgeTMrszDbALuMa/+Nh737Kca95LhCdDgwms8EiHoNugEf2QJy1lQuaseYJZG2+rNFF2bqDQ=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.5/Weft-1.1.5-arm64.dmg" length="18711213" type="application/octet-stream" sparkle:edSignature="crmGowJcuVbmPb7eoHTCSDDIu+rKzd8LCdJdOVNiqqKmzAYnnPDituOjFVmK4VWMRZOU4ab0XmC5t6Me7CTnDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: fX/GwTi88+XtLvJn+BSTFaWlCucefnShGqvbIieArB1Iclvj8qK6FbG3TK0HeavHvtsSMPlOMLN3N2VOJvRcCw==
-length: 1313
+edSignature: rgRFP1GjjVdhSfi9Z7hN6Iqj6jBGHZY/6u+7wrNgc24FktgbQzLLQir7pX3NoCbk0rSzT9MBotowrvTCbqHYCA==
+length: 1536
 -->
