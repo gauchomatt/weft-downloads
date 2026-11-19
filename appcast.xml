@@ -4,19 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.1.7</title>
-            <pubDate>Thu, 19 Nov 2026 12:47:35 -0700</pubDate>
-            <sparkle:version>119</sparkle:version>
-            <sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>
+            <title>1.1.8</title>
+            <pubDate>Thu, 19 Nov 2026 13:34:51 -0700</pubDate>
+            <sparkle:version>120</sparkle:version>
+            <sparkle:shortVersionString>1.1.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[- Existing agents now receive their app name and icon automatically when matching local session history is available, at startup and during background refresh.
-- Workspace status checks can identify the current app without another claim. Existing reservations and explicit app choices are preserved.
+            <description sparkle:format="markdown"><![CDATA[- Improve responsiveness when opening actions, sheets and workspace controls by moving repeated routing lookups out of UI rendering.
+- Load agent catalogs and configure Cursor tools without blocking the interface.
+- Show the worktree deletion dialog immediately while its safety checks run, and avoid refreshing unrelated workspaces before confirmation.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.7/Weft-1.1.7-arm64.dmg" length="18802382" type="application/octet-stream" sparkle:edSignature="6AjeBJ77xQqOfsO9j265qYwJ/CVFcOi9ER3twn7w4bqAZrvpvuXPUh5N3LraiEGSAtQe3G2UzdsxOBmqs7GZBA=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.8/Weft-1.1.8-arm64.dmg" length="18913214" type="application/octet-stream" sparkle:edSignature="m9kufbDxPojL4H2xscqknhqLIe9VicMlcHZX/t2yuqlH9HKKQvQC53xHyNIMKVK2OvfG6JpkCX2ZQEpzUipzDw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: CjI7TqRho9wNTqIx16kxLD04k+AuIxKoSMRxNJDTpmViKCBPZrUbPEY3YwDoBEh3Oz5cqw534PJfpDNDr8XiAw==
-length: 1507
+edSignature: 8Sb0zzJjpUpzS0/9Z0M3vNX6TqkVW7y2TM/d6l9y1i1o9/5DJJaq6YlAnp6PypoOvx3gNE+32Dj8p5VpallgBA==
+length: 1561
 -->
