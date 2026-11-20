@@ -4,21 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.1.16</title>
-            <pubDate>Fri, 20 Nov 2026 09:54:39 -0700</pubDate>
-            <sparkle:version>128</sparkle:version>
-            <sparkle:shortVersionString>1.1.16</sparkle:shortVersionString>
+            <title>1.1.17</title>
+            <pubDate>Fri, 20 Nov 2026 10:09:27 -0700</pubDate>
+            <sparkle:version>129</sparkle:version>
+            <sparkle:shortVersionString>1.1.17</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Weft 1.1.16
+            <description sparkle:format="markdown"><![CDATA[# Weft 1.1.17
 
-- Group the project sidebar roster by agent app, with labeled groups for Cursor, Grok Bot, Codex, Claude, and unlinked apps.
-- Keep manual ordering within each app group and preserve existing workspace actions and status badges.
+- Collapse or expand sidebar app groups by clicking their headings.
+- Remember collapsed groups separately for each project across app restarts.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.16/Weft-1.1.16-arm64.dmg" length="19106182" type="application/octet-stream" sparkle:edSignature="LCKeck/nR4dv0zk1zd8ReSAWLpprEazdiuXwj5CYjx6vSMHQOVjtPS6T/IRE7DtDowtM/NYwgVYcmjopVd0JAg=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.17/Weft-1.1.17-arm64.dmg" length="19118489" type="application/octet-stream" sparkle:edSignature="8TURVYdUXITgaMLh0hR/meAT4IGxehUadgIwIrVLe6lt0uvGl1Ffa4SVYg6Gp/2v6RZrMZw3/ejMtO4SNKsjCA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ZhvPjspqKsxPIP8GKNWUoo/oAvYmYM4mWzYuuXtCY8x3ylRQCa33KLMFHJHRfzuXTYl70OpLWmyuqkyxGPDoDA==
-length: 1455
+edSignature: EjkguilkrphD55MfjG3w3qZpzE/u4wSd3/PubErS9RwHDmizdkmuohitxXelgmAS3kZuffo+u38WBVVeRezYCw==
+length: 1371
 -->
