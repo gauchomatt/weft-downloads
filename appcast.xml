@@ -4,22 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.1.12</title>
-            <pubDate>Thu, 19 Nov 2026 23:59:33 -0700</pubDate>
-            <sparkle:version>124</sparkle:version>
-            <sparkle:shortVersionString>1.1.12</sparkle:shortVersionString>
+            <title>1.1.13</title>
+            <pubDate>Fri, 20 Nov 2026 00:10:33 -0700</pubDate>
+            <sparkle:version>125</sparkle:version>
+            <sparkle:shortVersionString>1.1.13</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Weft 1.1.12
+            <description sparkle:format="markdown"><![CDATA[# Weft 1.1.13
 
-- Show when a check runs the full test suite, including the selected spec count and reason, in the app, CLI, and operator notices.
-- Run optional credential validation only when requested; check required validation endpoints with a saved key at startup.
-- Keep background connectivity monitoring from repeatedly calling credential validation endpoints.
+- Name new and resumed Claude Code sessions after their workspace agent, making parallel sessions easier to identify in the prompt, session picker, and terminal title.
+- Use the same agent name for Claude Code tabs opened in Ghostty.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.12/Weft-1.1.12-arm64.dmg" length="19037281" type="application/octet-stream" sparkle:edSignature="siDzEPgC1Jnm476PN+IIIUyh7M8+dM/yvNOUtm5FixFhMYalrnfmJM3KIcnEQrQkEDQVanNS76E393iOBEMrDA=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.13/Weft-1.1.13-arm64.dmg" length="19040509" type="application/octet-stream" sparkle:edSignature="ilmLxOIIIqKqsCFfI1D863nm9fVqMJlaCzCejT0GYGf+e6ku+ErLzpriHH1412N4o2epqUbqhVr385fZtIEnCw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: I+Hid8uR/bei7x1oV87lfsPItOpURU/5lKlgdrRZajdrcqCjOr/2UGzcDe9eT2cEWTZrNc09NLafEf2X7zWdCw==
-length: 1579
+edSignature: zevZdfz0Q7A2dReOF3Et+9I5D/V7VIP5jVPqKhxEldubEarsFZVCSBZneULsB7Ph2tXZRCH9/lw9eMOBH87TDQ==
+length: 1460
 -->
