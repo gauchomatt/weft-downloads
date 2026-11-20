@@ -4,20 +4,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.1.9</title>
-            <pubDate>Thu, 19 Nov 2026 14:07:39 -0700</pubDate>
-            <sparkle:version>121</sparkle:version>
-            <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
+            <title>1.1.10</title>
+            <pubDate>Thu, 19 Nov 2026 23:29:20 -0700</pubDate>
+            <sparkle:version>122</sparkle:version>
+            <sparkle:shortVersionString>1.1.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[- Keep Requirements, workspace connections and conversation history responsive while loading project data.
-- Move agent setup, terminal automation, restart settings and template file work off the interface thread.
-- Show loading and saving feedback while preserving fresh checks before starting services.
+            <description sparkle:format="markdown"><![CDATA[# Weft 1.1.10
+
+- Recognize synced Grok Bot profiles in workspace app labels and offer Grok Bot as an app choice without requiring a conversation link.
+
+- Keep linked Cursor workers labeled as Cursor even when another app inspects their workspace.
+- Ignore inherited Codex session hints when the calling app is Cursor.
+- Match the Codex icon’s size and rounded shape to the other agent app icons, with consistent status badges.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.9/Weft-1.1.9-arm64.dmg" length="18994339" type="application/octet-stream" sparkle:edSignature="sKRWTF42E2mJoi1ODRYoZSEl45e+70jE5nxe5I6Me17Xv4hXkWIKs7jMnwHKt81ZeskSs8C9pWWYTPwwzcsWAw=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.10/Weft-1.1.10-arm64.dmg" length="19000070" type="application/octet-stream" sparkle:edSignature="hLM4qyxtnuP/0Zc2/pXddfCS0zLIrZsFcI40wLGxcnIqUjNSaJz57lcCzcIeqPiAgyVqKGNxiK2mSgTFyE8kDw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Rf0cSLHA9suWqOM7vF7a/R79jJZ8VmQ2fwH65DqT1+BiPXaYw5trdnBBHmhorEPro5pYUF4o7AEd2tYOf0uVBQ==
-length: 1512
+edSignature: RSXX/ErbciO6Z7arZJMjDyB4be1qoCmR9uODffRrr2gVZZf79+y4f9keJp5nWA9iApz8crNwLx5Hhjn0vaHyBA==
+length: 1640
 -->
