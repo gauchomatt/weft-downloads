@@ -4,22 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.1.18</title>
-            <pubDate>Fri, 20 Nov 2026 10:25:40 -0700</pubDate>
-            <sparkle:version>130</sparkle:version>
-            <sparkle:shortVersionString>1.1.18</sparkle:shortVersionString>
+            <title>1.1.19</title>
+            <pubDate>Fri, 20 Nov 2026 11:03:16 -0700</pubDate>
+            <sparkle:version>131</sparkle:version>
+            <sparkle:shortVersionString>1.1.19</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Weft 1.1.18
+            <description sparkle:format="markdown"><![CDATA[# Weft 1.1.19
 
-- Hide the sidebar subagent count badge when no subagents are running.
-- Keep workspace app associations unchanged when another app inspects their status.
-- Preserve queued service restoration when Weft quits before startup restoration finishes.
+- Show saved conversation names in Cursor relinking and recent-conversation lists, including desktop chats.
+- Show readable names for linked Claude, Codex, and Grok Bot conversations, with IDs in supporting details.
+- Preserve existing Claude Code conversation names when resuming them.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.18/Weft-1.1.18-arm64.dmg" length="19127807" type="application/octet-stream" sparkle:edSignature="vuaUtdgy5Wtapws7TsbOLj7O660WkWItQR+c9wW+1ew/xv3JpqvVzeKTrWK8xI3ChrFVPGBv16L0KXTEdz87AA=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.19/Weft-1.1.19-arm64.dmg" length="19165052" type="application/octet-stream" sparkle:edSignature="7Y+uTeXX1wHv29Z4IFDlUhH4jx1KiS74MWvozDdygD4h4Fj73w8O5PE8Nqtrk9J5JiAWr9GzUggaatWmX5i/Ag=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: p/07/Yet42zSbt3seEpT8m7ZnI0EPGmRgEB/5W3Lmj2gNmpGA6gaDBiw9IvO+7ohSESQAc794xVE2NFeuRT7CQ==
-length: 1472
+edSignature: +eD+P5wDUUgO2Wo+rnlivZtlQoJILYW0qq9dD07V55m/OaLhVU212mIamQ+RU4jXb30Q096NqqMGKIbt3NVdCw==
+length: 1513
 -->
