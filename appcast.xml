@@ -4,22 +4,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.1.19</title>
-            <pubDate>Fri, 20 Nov 2026 11:03:16 -0700</pubDate>
-            <sparkle:version>131</sparkle:version>
-            <sparkle:shortVersionString>1.1.19</sparkle:shortVersionString>
+            <title>1.1.20</title>
+            <pubDate>Fri, 20 Nov 2026 14:00:54 -0700</pubDate>
+            <sparkle:version>132</sparkle:version>
+            <sparkle:shortVersionString>1.1.20</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Weft 1.1.19
+            <description sparkle:format="markdown"><![CDATA[# Weft 1.1.20
 
-- Show saved conversation names in Cursor relinking and recent-conversation lists, including desktop chats.
-- Show readable names for linked Claude, Codex, and Grok Bot conversations, with IDs in supporting details.
-- Preserve existing Claude Code conversation names when resuming them.
+- Keep managed project services, logs, routing connections, shared services, and data services in a private runtime that survives app updates.
+- Reconnect after a Sparkle relaunch without starting duplicate services. Normal Quit still stops managed services.
+- Bound failed handoffs and reject incompatible or unauthenticated runtime connections.
+
+The first upgrade from an earlier version still needs one restart to move service ownership into the new runtime. Install this version when your current work can pause; subsequent updates use the handoff.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.19/Weft-1.1.19-arm64.dmg" length="19165052" type="application/octet-stream" sparkle:edSignature="7Y+uTeXX1wHv29Z4IFDlUhH4jx1KiS74MWvozDdygD4h4Fj73w8O5PE8Nqtrk9J5JiAWr9GzUggaatWmX5i/Ag=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.20/Weft-1.1.20-arm64.dmg" length="19514211" type="application/octet-stream" sparkle:edSignature="UsWiNPR7lylS/qWo8vHS0XhzOfO/+2WSEEVxBRNCaNhBCmNfi8zKFbdNE0IL7NapXTA/deTsQJqJu5DyYHMCDg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: +eD+P5wDUUgO2Wo+rnlivZtlQoJILYW0qq9dD07V55m/OaLhVU212mIamQ+RU4jXb30Q096NqqMGKIbt3NVdCw==
-length: 1513
+edSignature: 2ulpPGkxfUw8IWF0vQ2QVNDMyhSYeXyqXZZioDyzLgA0ilrwWsNdrm0p7+3P1k1zELsiWFYMYJW5Gu4LaDdABg==
+length: 1779
 -->
