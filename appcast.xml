@@ -4,24 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.1.10</title>
-            <pubDate>Thu, 19 Nov 2026 23:29:20 -0700</pubDate>
-            <sparkle:version>122</sparkle:version>
-            <sparkle:shortVersionString>1.1.10</sparkle:shortVersionString>
+            <title>1.1.11</title>
+            <pubDate>Thu, 19 Nov 2026 23:47:28 -0700</pubDate>
+            <sparkle:version>123</sparkle:version>
+            <sparkle:shortVersionString>1.1.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Weft 1.1.10
+            <description sparkle:format="markdown"><![CDATA[# Weft 1.1.11
 
-- Recognize synced Grok Bot profiles in workspace app labels and offer Grok Bot as an app choice without requiring a conversation link.
-
-- Keep linked Cursor workers labeled as Cursor even when another app inspects their workspace.
-- Ignore inherited Codex session hints when the calling app is Cursor.
-- Match the Codex icon’s size and rounded shape to the other agent app icons, with consistent status badges.
+- Match the visible Cursor and Codex icon squares to Claude across workspace rows, menus, and agent pickers.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.10/Weft-1.1.10-arm64.dmg" length="19000070" type="application/octet-stream" sparkle:edSignature="hLM4qyxtnuP/0Zc2/pXddfCS0zLIrZsFcI40wLGxcnIqUjNSaJz57lcCzcIeqPiAgyVqKGNxiK2mSgTFyE8kDw=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.11/Weft-1.1.11-arm64.dmg" length="19001974" type="application/octet-stream" sparkle:edSignature="qcG+eq1cKdiEf8JA2L8d2mzi10FYLprgovwQQf2cfGs6rdmeS+DQxFXH/voJw9hiYOTj734liaUEhjvEFjz4Bg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: RSXX/ErbciO6Z7arZJMjDyB4be1qoCmR9uODffRrr2gVZZf79+y4f9keJp5nWA9iApz8crNwLx5Hhjn0vaHyBA==
-length: 1640
+edSignature: Y5FWp7Z7l7VK8rssrmgXOKau9tzfo1hlYrHIk2Z9f3aGA/8x4DyoIdu15fB3ajLsHxrjoHUbDCBXZNKd2K/FDw==
+length: 1335
 -->
