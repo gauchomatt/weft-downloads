@@ -4,20 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.1.11</title>
-            <pubDate>Thu, 19 Nov 2026 23:47:28 -0700</pubDate>
-            <sparkle:version>123</sparkle:version>
-            <sparkle:shortVersionString>1.1.11</sparkle:shortVersionString>
+            <title>1.1.12</title>
+            <pubDate>Thu, 19 Nov 2026 23:59:33 -0700</pubDate>
+            <sparkle:version>124</sparkle:version>
+            <sparkle:shortVersionString>1.1.12</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Weft 1.1.11
+            <description sparkle:format="markdown"><![CDATA[# Weft 1.1.12
 
-- Match the visible Cursor and Codex icon squares to Claude across workspace rows, menus, and agent pickers.
+- Show when a check runs the full test suite, including the selected spec count and reason, in the app, CLI, and operator notices.
+- Run optional credential validation only when requested; check required validation endpoints with a saved key at startup.
+- Keep background connectivity monitoring from repeatedly calling credential validation endpoints.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.11/Weft-1.1.11-arm64.dmg" length="19001974" type="application/octet-stream" sparkle:edSignature="qcG+eq1cKdiEf8JA2L8d2mzi10FYLprgovwQQf2cfGs6rdmeS+DQxFXH/voJw9hiYOTj734liaUEhjvEFjz4Bg=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.12/Weft-1.1.12-arm64.dmg" length="19037281" type="application/octet-stream" sparkle:edSignature="siDzEPgC1Jnm476PN+IIIUyh7M8+dM/yvNOUtm5FixFhMYalrnfmJM3KIcnEQrQkEDQVanNS76E393iOBEMrDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Y5FWp7Z7l7VK8rssrmgXOKau9tzfo1hlYrHIk2Z9f3aGA/8x4DyoIdu15fB3ajLsHxrjoHUbDCBXZNKd2K/FDw==
-length: 1335
+edSignature: I+Hid8uR/bei7x1oV87lfsPItOpURU/5lKlgdrRZajdrcqCjOr/2UGzcDe9eT2cEWTZrNc09NLafEf2X7zWdCw==
+length: 1579
 -->
