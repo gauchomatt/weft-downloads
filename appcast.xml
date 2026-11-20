@@ -4,21 +4,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.1.13</title>
-            <pubDate>Fri, 20 Nov 2026 00:10:33 -0700</pubDate>
-            <sparkle:version>125</sparkle:version>
-            <sparkle:shortVersionString>1.1.13</sparkle:shortVersionString>
+            <title>1.1.14</title>
+            <pubDate>Fri, 20 Nov 2026 00:56:37 -0700</pubDate>
+            <sparkle:version>126</sparkle:version>
+            <sparkle:shortVersionString>1.1.14</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Weft 1.1.13
+            <description sparkle:format="markdown"><![CDATA[# Weft 1.1.14
 
-- Name new and resumed Claude Code sessions after their workspace agent, making parallel sessions easier to identify in the prompt, session picker, and terminal title.
-- Use the same agent name for Claude Code tabs opened in Ghostty.
+- Automatically follow repository scheduling-only check updates while preserving approved commands, explicit owner choices, and existing defaults.
+- Keep local checks available on demand while CI reporting continues, with scheduling preserved across restarts.
+- Wait for remaining CI checks before requesting repairs, and consolidate the failures into one completion notice.
+- Share concurrent CI refreshes, cache completed job logs, and preserve notification identity when diagnostics become available later.
+- Recheck workspace ownership and revision after retrieving CI logs.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.13/Weft-1.1.13-arm64.dmg" length="19040509" type="application/octet-stream" sparkle:edSignature="ilmLxOIIIqKqsCFfI1D863nm9fVqMJlaCzCejT0GYGf+e6ku+ErLzpriHH1412N4o2epqUbqhVr385fZtIEnCw=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.14/Weft-1.1.14-arm64.dmg" length="19099547" type="application/octet-stream" sparkle:edSignature="c58QXJB+unx+RPkAhLR85EgOJQ7DEU02PCTuU/iHu0kpmVnGYsxw1mEEc7vhIIEzMJNPNsiL+B6JhptVrIb8BQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: zevZdfz0Q7A2dReOF3Et+9I5D/V7VIP5jVPqKhxEldubEarsFZVCSBZneULsB7Ph2tXZRCH9/lw9eMOBH87TDQ==
-length: 1460
+edSignature: iN/nF0JMjGtZG5BVJgvaUi+R2yeFuwk23aFhJ8ee6AoU9TkMs8z3uYQUCdyLrttWQ4drUgjY+9K0sZqc1LbWBg==
+length: 1805
 -->
