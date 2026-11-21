@@ -4,22 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.1.25</title>
-            <pubDate>Sat, 21 Nov 2026 14:46:00 -0700</pubDate>
-            <sparkle:version>137</sparkle:version>
-            <sparkle:shortVersionString>1.1.25</sparkle:shortVersionString>
+            <title>1.1.26</title>
+            <pubDate>Sat, 21 Nov 2026 15:08:48 -0700</pubDate>
+            <sparkle:version>138</sparkle:version>
+            <sparkle:shortVersionString>1.1.26</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Weft 1.1.25
+            <description sparkle:format="markdown"><![CDATA[# Weft 1.1.26
 
-- Web and desktop previews now share the same full-width frame and interaction. Desktop previews explain how to enable macOS window capture and retain the last frame while the app sleeps.
-- Agents can resume and release their own saved claims after chat compaction, using task-scoped context or a private receipt. Another task's claim stays protected.
-- Cursor, Codex, Claude and Grok Bot use the same claim resume mechanism. MCP responses keep raw claim credentials private, and shared HTTP connections never inherit the server's task context.
+- Launch now handles changed desktop dependencies while the renderer is running: Weft pauses this checkout's managed processes, prepares dependencies, restores its services, then opens the app.
+- Bringing an already-running desktop app forward does not reinstall dependencies or restart it.
+- Dependency preparation records the completed lockfile state, preventing unnecessary preparation on the next launch.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.25/Weft-1.1.25-arm64.dmg" length="20369188" type="application/octet-stream" sparkle:edSignature="dyCvYIFtltH6V2kd9ZoeJRaXyJ1QeldMsU5XFC7f7Dtj0ytY/4tYs8kPYKUVdkBkUQFXdoWQP6v5pzy9Go1DDw=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.26/Weft-1.1.26-arm64.dmg" length="20372649" type="application/octet-stream" sparkle:edSignature="6jS6g1CwrtaVohc1QnYx9VGllOHC5SVdvENjqBofoX/Ycp8AJLAHE7Ftr+rPhND10tVQ3MwgtTQlEmdJqldTCA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 1VFtVivgalw/6h+ixkxHrIDnIivhs026loaBybzxfkFVwDVtSUQ/NGHpUCCh4ypfPSXF4y9cYW701i62TuncAw==
-length: 1771
+edSignature: AL3r+cRxXEJ5h4ioh9Earhj0HzxGTPdnkDlxyNjAIEC2Lx2ZRfaRQDg0AMSOLghe+0ZWF2N6NF1bgeY2cVe4Dw==
+length: 1635
 -->
