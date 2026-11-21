@@ -4,22 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.1.27</title>
-            <pubDate>Sat, 21 Nov 2026 15:28:27 -0700</pubDate>
-            <sparkle:version>139</sparkle:version>
-            <sparkle:shortVersionString>1.1.27</sparkle:shortVersionString>
+            <title>1.1.28</title>
+            <pubDate>Sat, 21 Nov 2026 16:00:40 -0700</pubDate>
+            <sparkle:version>140</sparkle:version>
+            <sparkle:shortVersionString>1.1.28</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Weft 1.1.27
+            <description sparkle:format="markdown"><![CDATA[# Weft 1.1.28
 
-- Restored the overview's rounded section wells, clear headings and consistent spacing while keeping previews full-width.
-- Open and Launch actions are centered over the preview again, with the previous hover treatment and proportions.
-- Checks, services and ports appear before agent details. Preferences and checkout details use contained accordions whose entire header row opens and closes them.
+- Background restoration now sends recipe and workspace reviews to the affected checkout's pending-review inbox instead of interrupting your current work with an error dialog.
+- Saved checkout reviews from earlier versions are recovered without starting the checkout. Repeated delivery does not create duplicate pending reviews.
+- Review badges, exact configuration changes and macOS notifications remain available when you choose to review them.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.27/Weft-1.1.27-arm64.dmg" length="20381260" type="application/octet-stream" sparkle:edSignature="1gEmdRcdY+RdkFRawRUfS68fQrwqZvNteVRE9aDBA1TXDmyNZx9FvY1fw2ZxMVMylD6xq2+JOdm/n89MzAayDw=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.28/Weft-1.1.28-arm64.dmg" length="20411319" type="application/octet-stream" sparkle:edSignature="DprILzquGiMr6GA8B4LrjsIxb6giC4JC+cELlAXfrIhGRAf1ghcEc1GgNIxl9pF2uj7YhZisSiREQR+cCKknCw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: PKcuiC4X/HVmaOUb3cwNYg7IXaIOAYmShjO43FUhGsOqmrd09A/rz0Z5/849DnqvPbiWIbQ+xdVBUT6JtZxwCA==
-length: 1625
+edSignature: IQXjkQKwsuU1JiIxjObGpL1VZ9S4QzjLRne4XGs65a4uk1Ga6yRd6JSbPpmwUOYRTKDAwkQAzKqNrxrZbrA9Bg==
+length: 1673
 -->
