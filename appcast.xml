@@ -4,23 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.1.29</title>
-            <pubDate>Sat, 21 Nov 2026 16:18:34 -0700</pubDate>
-            <sparkle:version>141</sparkle:version>
-            <sparkle:shortVersionString>1.1.29</sparkle:shortVersionString>
+            <title>1.1.30</title>
+            <pubDate>Sat, 21 Nov 2026 16:35:23 -0700</pubDate>
+            <sparkle:version>142</sparkle:version>
+            <sparkle:shortVersionString>1.1.30</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Weft 1.1.29
+            <description sparkle:format="markdown"><![CDATA[# Weft 1.1.30
 
-- The sidebar Inbox now shows approvals first, followed by reports needing attention, with full-width review rows and grouped sections.
-- Clear red badges replace faint orange approval indicators on projects and checkouts. The Inbox and Dock icon count unresolved actions, rather than unread activity.
-- Opening the Inbox leaves pending approval badges visible until you approve or deny the request. Routine service activity does not add to the count.
-- Approving a recovered checkout review no longer gets blocked by a file-copy repair when no file-copy rules exist. Approval failures now appear inside the review, and completed decisions update badges immediately.
+- The sidebar bell opens pending actions only, with clear red badges on the notification control, affected projects and checkouts, and the Dock icon. Reports and routine activity stay in Operator.
+- Reading notifications leaves action badges visible until a decision is made. Full-width review rows show the affected project and checkout.
+- Fixed the false setup block on recovered checkout approvals when no file-copy rules exist. Approval failures appear inside the review.
+- The Dock badge refreshes after launch and activation, with system badge permission requested alongside notification alerts.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.29/Weft-1.1.29-arm64.dmg" length="20431045" type="application/octet-stream" sparkle:edSignature="5WQ/MWTDlBPIG10P9siY5YOL6qqhaxRsKf/a3VubnkqymZkgJ1DtJany2rLx0jfZC6zHoEFQVapBdPRNcFAADw=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.30/Weft-1.1.30-arm64.dmg" length="20436586" type="application/octet-stream" sparkle:edSignature="p5TyXwivQl7T3kTwqzq6JUqxW6H7gd+6w2BILLmx2eG/AVQen54Gp8dvjNbprEqLZ85mz16Qbspc+Ok8UW+OAA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: VuXN7jC9p9qbfRTdqoFq7DSgE776aCdWHoQ1JGxCWBWCJjYrtwKltPUE3oYDzHNdOWgfAqeOZ/8uqs69T9teCw==
-length: 1893
+edSignature: oBgzMQvL4YFlhyLe4KNwAal9Osh1hJyqpzYLl37oaXfrdljxL2IXCFTWmER8maesqVVe/dHEAIX1BGaOmbgxBQ==
+length: 1828
 -->
