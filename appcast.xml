@@ -4,22 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.1.26</title>
-            <pubDate>Sat, 21 Nov 2026 15:08:48 -0700</pubDate>
-            <sparkle:version>138</sparkle:version>
-            <sparkle:shortVersionString>1.1.26</sparkle:shortVersionString>
+            <title>1.1.27</title>
+            <pubDate>Sat, 21 Nov 2026 15:28:27 -0700</pubDate>
+            <sparkle:version>139</sparkle:version>
+            <sparkle:shortVersionString>1.1.27</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Weft 1.1.26
+            <description sparkle:format="markdown"><![CDATA[# Weft 1.1.27
 
-- Launch now handles changed desktop dependencies while the renderer is running: Weft pauses this checkout's managed processes, prepares dependencies, restores its services, then opens the app.
-- Bringing an already-running desktop app forward does not reinstall dependencies or restart it.
-- Dependency preparation records the completed lockfile state, preventing unnecessary preparation on the next launch.
+- Restored the overview's rounded section wells, clear headings and consistent spacing while keeping previews full-width.
+- Open and Launch actions are centered over the preview again, with the previous hover treatment and proportions.
+- Checks, services and ports appear before agent details. Preferences and checkout details use contained accordions whose entire header row opens and closes them.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.26/Weft-1.1.26-arm64.dmg" length="20372649" type="application/octet-stream" sparkle:edSignature="6jS6g1CwrtaVohc1QnYx9VGllOHC5SVdvENjqBofoX/Ycp8AJLAHE7Ftr+rPhND10tVQ3MwgtTQlEmdJqldTCA=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.27/Weft-1.1.27-arm64.dmg" length="20381260" type="application/octet-stream" sparkle:edSignature="1gEmdRcdY+RdkFRawRUfS68fQrwqZvNteVRE9aDBA1TXDmyNZx9FvY1fw2ZxMVMylD6xq2+JOdm/n89MzAayDw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: AL3r+cRxXEJ5h4ioh9Earhj0HzxGTPdnkDlxyNjAIEC2Lx2ZRfaRQDg0AMSOLghe+0ZWF2N6NF1bgeY2cVe4Dw==
-length: 1635
+edSignature: PKcuiC4X/HVmaOUb3cwNYg7IXaIOAYmShjO43FUhGsOqmrd09A/rz0Z5/849DnqvPbiWIbQ+xdVBUT6JtZxwCA==
+length: 1625
 -->
