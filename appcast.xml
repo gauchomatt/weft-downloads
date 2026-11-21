@@ -4,25 +4,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.1.23</title>
-            <pubDate>Sat, 21 Nov 2026 11:28:39 -0700</pubDate>
-            <sparkle:version>135</sparkle:version>
-            <sparkle:shortVersionString>1.1.23</sparkle:shortVersionString>
+            <title>1.1.24</title>
+            <pubDate>Sat, 21 Nov 2026 12:33:06 -0700</pubDate>
+            <sparkle:version>136</sparkle:version>
+            <sparkle:shortVersionString>1.1.24</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Weft 1.1.23
+            <description sparkle:format="markdown"><![CDATA[# Weft 1.1.24
 
-- Deliver agent approval requests to a persistent review inbox, with project and checkout badges, macOS notifications, recipe diffs, and Approve or Deny actions.
-- Return request IDs to CLI and MCP clients and support waiting for a decision, including after an approved checkout removal.
-- Allow claim holders to approve narrowly scoped checkout recipe changes using committed package scripts, with an audit trail and Revert in Weft.
-- Keep claims and releases working when a preview service has changed, and include updated preview mappings in recipe review.
-- Support explicit checkout paths and per-project folder templates; avoid tracking the base branch when creating a branch.
-- Surface failed services during automatic recovery and support Cursor's authenticated local HTTP transport when its stdio sandbox blocks the local socket.
+- Keep the approved recipe available when refreshing a project, so pending reviews show a useful diff.
+- Include changed preview and worktree settings in the review.
+- Show the complete proposed recipe when an older approved copy is unavailable, instead of an empty review.
+
+- Show one desktop preview for launch-enabled services and let it fill the available inspector space.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.23/Weft-1.1.23-arm64.dmg" length="20205994" type="application/octet-stream" sparkle:edSignature="aswk0ft6cckUnm5MZrGL1f88CAKbkxrvkqyKPirF0fzkRj/B2KDkpso0i/kraY7D7pChIGdIVSGE3kFedaAxAw=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.24/Weft-1.1.24-arm64.dmg" length="20220306" type="application/octet-stream" sparkle:edSignature="dpvY03A0IUfgix7Ps0P6xm6C/r/yWmoZjvRbKIfqd88NI28c9KSlNhQ8BjyYHT+0SkDtbVBxvAe7coUFNzR4Dg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Ueula2CFazdBQUNn5XnkmN/HdHTsYCVeTnt9hRCponT4/dCGNww6YrGYgn9S9Fl+NNtHd5IU3fqiCYmnx+klAw==
-length: 2065
+edSignature: 62aDCR+nRzX28uA/uD3Wan/5sOQt47BmKtSxE3cwfVlFoaXoB/f/fiTI+WjkM7WhrkwKYYOJhI4wwlRFqGhdDw==
+length: 1603
 -->
