@@ -4,20 +4,25 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.1.21</title>
-            <pubDate>Sat, 21 Nov 2026 07:05:34 -0700</pubDate>
-            <sparkle:version>133</sparkle:version>
-            <sparkle:shortVersionString>1.1.21</sparkle:shortVersionString>
+            <title>1.1.22</title>
+            <pubDate>Sat, 21 Nov 2026 09:25:10 -0700</pubDate>
+            <sparkle:version>134</sparkle:version>
+            <sparkle:shortVersionString>1.1.22</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Weft 1.1.21
+            <description sparkle:format="markdown"><![CDATA[# Weft 1.1.22
 
-- Simplified the project sidebar by removing app section headings and collapse controls. Worktrees stay organized by app, with your saved ordering within each app preserved.
+- Launch desktop applications directly from a service’s preview action, using the selected worktree’s checkout and ready service URLs.
+- Keep desktop app data separate for each worktree, with configurable application identities for native shells.
+- Keep a desktop preview visible in the right-hand inspector, with a sleeping badge when the app is closed.
+- View desktop launch status and logs, stop the entire process tree, and launch a build independently of development servers.
+- Control desktop launches through the CLI and MCP using the same reviewed configuration as the app.
+- Discover supported desktop launch settings during new-project setup and carry the reviewed settings into new worktrees automatically.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.21/Weft-1.1.21-arm64.dmg" length="19505731" type="application/octet-stream" sparkle:edSignature="EXRfN7ozJCv45l8JLNe0AGD9ZjTyqp9NcVHprTDod8X21Z17JKYTgddRkIB6pxs9b5Lq/k97E3ywcxQBsNi6Bg=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.22/Weft-1.1.22-arm64.dmg" length="19748696" type="application/octet-stream" sparkle:edSignature="cmjmsE4/t+dKFlffBPaMM7cJhzmTX+Pl/PDYCNJpzdD9QXrnncJD75ev6lrWJ0E+4ywZX9DQLjdXPfVoPwbEDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: jIwx2JGqO7xk/jF/xV5z9hKS+m0SY1owVaMHJujdS/1U/cYb+x2lwJ9qyrZXuB9hZ7/X02kX3HAIZlaiWT28CQ==
-length: 1400
+edSignature: uaMGwdsC1F/T7UUXtq0G9P4T/bHi+LF81gnvToflJeb2dX+xTNfv6K3mEXYmX9mC92XOylfmEqS23OULaYx5AQ==
+length: 1948
 -->
