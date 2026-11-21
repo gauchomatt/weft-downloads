@@ -4,25 +4,25 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.1.22</title>
-            <pubDate>Sat, 21 Nov 2026 09:25:10 -0700</pubDate>
-            <sparkle:version>134</sparkle:version>
-            <sparkle:shortVersionString>1.1.22</sparkle:shortVersionString>
+            <title>1.1.23</title>
+            <pubDate>Sat, 21 Nov 2026 11:28:39 -0700</pubDate>
+            <sparkle:version>135</sparkle:version>
+            <sparkle:shortVersionString>1.1.23</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Weft 1.1.22
+            <description sparkle:format="markdown"><![CDATA[# Weft 1.1.23
 
-- Launch desktop applications directly from a service’s preview action, using the selected worktree’s checkout and ready service URLs.
-- Keep desktop app data separate for each worktree, with configurable application identities for native shells.
-- Keep a desktop preview visible in the right-hand inspector, with a sleeping badge when the app is closed.
-- View desktop launch status and logs, stop the entire process tree, and launch a build independently of development servers.
-- Control desktop launches through the CLI and MCP using the same reviewed configuration as the app.
-- Discover supported desktop launch settings during new-project setup and carry the reviewed settings into new worktrees automatically.
+- Deliver agent approval requests to a persistent review inbox, with project and checkout badges, macOS notifications, recipe diffs, and Approve or Deny actions.
+- Return request IDs to CLI and MCP clients and support waiting for a decision, including after an approved checkout removal.
+- Allow claim holders to approve narrowly scoped checkout recipe changes using committed package scripts, with an audit trail and Revert in Weft.
+- Keep claims and releases working when a preview service has changed, and include updated preview mappings in recipe review.
+- Support explicit checkout paths and per-project folder templates; avoid tracking the base branch when creating a branch.
+- Surface failed services during automatic recovery and support Cursor's authenticated local HTTP transport when its stdio sandbox blocks the local socket.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.22/Weft-1.1.22-arm64.dmg" length="19748696" type="application/octet-stream" sparkle:edSignature="cmjmsE4/t+dKFlffBPaMM7cJhzmTX+Pl/PDYCNJpzdD9QXrnncJD75ev6lrWJ0E+4ywZX9DQLjdXPfVoPwbEDA=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.23/Weft-1.1.23-arm64.dmg" length="20205994" type="application/octet-stream" sparkle:edSignature="aswk0ft6cckUnm5MZrGL1f88CAKbkxrvkqyKPirF0fzkRj/B2KDkpso0i/kraY7D7pChIGdIVSGE3kFedaAxAw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: uaMGwdsC1F/T7UUXtq0G9P4T/bHi+LF81gnvToflJeb2dX+xTNfv6K3mEXYmX9mC92XOylfmEqS23OULaYx5AQ==
-length: 1948
+edSignature: Ueula2CFazdBQUNn5XnkmN/HdHTsYCVeTnt9hRCponT4/dCGNww6YrGYgn9S9Fl+NNtHd5IU3fqiCYmnx+klAw==
+length: 2065
 -->
