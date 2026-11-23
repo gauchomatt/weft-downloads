@@ -4,24 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Weft</title>
         <item>
-            <title>1.1.32</title>
-            <pubDate>Sat, 21 Nov 2026 18:15:22 -0700</pubDate>
-            <sparkle:version>144</sparkle:version>
-            <sparkle:shortVersionString>1.1.32</sparkle:shortVersionString>
+            <title>1.1.33</title>
+            <pubDate>Mon, 23 Nov 2026 08:49:34 -0700</pubDate>
+            <sparkle:version>145</sparkle:version>
+            <sparkle:shortVersionString>1.1.33</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Weft 1.1.32
+            <description sparkle:format="markdown"><![CDATA[# Weft 1.1.33
 
-- Propose checked-in recipe changes for human approval through Requests, with a diff against the approved recipe.
-- Add `weft recipe propose --project <id>` and the `recipe_propose` MCP tool.
-- Detect repository recipe changes hidden by private recipes and apply them only after approval.
-- Deliver runtime recipe reviews to the bell, app badge and macOS notifications; make service recipe review links open approval.
-- Show newly approved optional services with their own Start and Stop controls.
+- Keep one main Weft window when reopening the app or using the Dock, menu bar, hotkey, or notifications.
+- Restore the main window after closing or minimizing it, even when Settings or another auxiliary window is open.
 ]]></description>
-            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.32/Weft-1.1.32-arm64.dmg" length="20476498" type="application/octet-stream" sparkle:edSignature="d+Kj+Y3IwQFmz+loc9D2dBKq9UjchV/235Nieo2zaaJOtZCPgAaj3Se7N0FFt72aBDBXOKFytodK35NnSpF5AA=="></enclosure>
+            <enclosure url="https://github.com/gauchomatt/weft-downloads/releases/download/v1.1.33/Weft-1.1.33-arm64.dmg" length="20478355" type="application/octet-stream" sparkle:edSignature="69yAHsob7HqzElLfzP+Sy6pWMBTETmmNUEAQpYbS24Hr3wFYC18LT7ibVpyYTbeZlsMYOb986l16aUtonuUfCw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Q01xMsLB550Nvs2XIzyhrdTeesjms+tApGKQJyQBwYhS4tsM6W6sUYTZpb935eP6AoSol6jAJfmW0LkoHdieAA==
-length: 1724
+edSignature: FhnWchBZc4fRYc3Af0klrCSOd14wFF1A9O5ar0QdGfgimX9+0tUvWpeFEk1DBBHnOjeMNrxYwDx8INgAkTn6Aw==
+length: 1446
 -->
